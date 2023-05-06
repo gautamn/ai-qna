@@ -53,10 +53,11 @@ def addDataInWeaviate(corpus, openai_key, weaviate_url):
             text = item
             #print(text)
             print(text['content'])
+            str = text['content'].replace("\n", " ")
             print("**********************************************************************************************************")
-            ebd = generate_data_embeddings(text['content'])
+            ebd = generate_data_embeddings(str)
             batch_data = {
-                "content": text['content']
+                "content": str
             }
             batch.add_data_object(data_object=batch_data, class_name="PDFDocument", vector=ebd)
 
