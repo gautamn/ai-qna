@@ -1,0 +1,720 @@
+MASTER SERVICES AGREEMENT
+ 
+
+THIS MASTER SERVICE AGREEMENT is entered into as of October 16, 2017 among BROOKFIELD ASSET MANAGEMENT INC., a corporation existing under the laws of the Province of Ontario (“Brookfield”), BRP ENERGY GROUP L.P., a limited partnership existing under the laws of the Province of Manitoba (“Canadian Service Provider”), BROOKFIELD ASSET MANAGEMENT PRIVATE INSTITUTIONAL CAPITAL ADVISER (CANADA), L.P., a limited partnership existing under the laws of the Province of Manitoba (“Canadian Service Provider II”), BROOKFIELD GLOBAL RENEWABLE ENERGY ADVISOR LIMITED, a company existing under the laws of England (“UK Service Provider”), TERRAFORM POWER, INC., a Delaware corporation (“TERP”), TERRAFORM POWER, LLC, a Delaware limited liability company (“TERP LLC”), and TERRAFORM POWER OPERATING, LLC, a Delaware limited liability company (“TERP Operating”).
+ 
+RECITALS:
+ 
+A. The Service Recipients directly or indirectly hold interests in the Operating Renewable Assets.
+ 
+B. TERP, TERP LLC and TERP Operating wish to engage the Service Providers to provide the services set forth in this Agreement to the Service Recipients, subject to the terms and conditions of this Agreement, and the Service Providers wish to accept such engagement.
+ 
+C. From time to time, members of the TERP Group may engage the Service Providers or Affiliates thereof to provide the Services hereunder directly to an entity within the TERP Group under Entity-Level Service Agreements.
+ 
+D. TERP, TERP LLC and TERP Operating and certain of their Subsidiaries, and Brookfield and certain Affiliates thereof, concurrently with entry into this Agreement, have entered into Other Sponsorship Agreements pursuant to which various entities in the Brookfield Group agree to provide certain services, a credit line and other support specified therein to the TERP Group, which are related to the purposes of this Agreement.
+ 
+NOW THEREFORE in consideration of the mutual covenants and agreements contained in this Agreement and the Other Sponsorship Agreements and other good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged), the parties hereto agree as follows:
+ 
+ARTICLE 1
+INTERPRETATION
+ 
+1.1   Definitions
+ 
+In this Agreement, except where the context otherwise requires, the following terms will have the following meanings:
+ 
+1.1.1“AAA” has the meaning assigned thereto in Section 12.2.1;
+ 
+1.1.2 “AAA National Roster” means the roster of arbitration professionals maintained by the AAA;
+ 
+1.1.3 “Advisers Act” means the U.S. Investment Advisers Act of 1940, as amended;
+ 
+1.1.4 “Affiliate” means, with respect to a Person, any other Person that, directly or indirectly, through one or more intermediaries, Controls or is Controlled by such Person, or is under common Control of a third Person (provided that the members of the TERP Group shall not be Affiliates of the Brookfield Group (or vice versa) for purposes of this Agreement);
+ 
+1.1.5 “Agreement” means this Master Services Agreement, and “herein”, “hereof”, “hereby”, “hereunder” and similar expressions refer to this Agreement and include every instrument supplemental or ancillary to this Agreement and, except where the context otherwise requires, not to any particular article or section thereof;
+ 
+1.1.6 “Arbitration” has the meaning assigned thereto in Section 12.2.1;
+ 
+1.1.7 “Arbitrator” has the meaning assigned thereto in Section 12.2.3;
+ 
+1.1.8 “Base Management Fee” means the base management fee, calculated Quarterly in arrears, in an aggregate amount equal to the sum of (i) 25% of the Fee Amount, plus (ii) 0.3125% of the Market Capitalization Value Increase for the preceding Quarter;
+ 
+1.1.9 “Base Management Fee Adjustment” has the meaning assigned thereto in Section 7.1.2;
+ 
+1.1.10 “Brookfield” has the meaning assigned thereto in the preamble;
+ 
+1.1.11 “Brookfield Change of Control” means the consummation of any transaction including, any merger, amalgamation, arrangement or consolidation the result of which is that any person or group of related persons, other than Brookfield, its Subsidiaries, its or such Subsidiaries’ employee benefit plans, or its directors, officers or employees and/or any entity or group of entities controlled by such directors, officers or employees (provided that upon the consummation of a transaction by such directors, officers or employees and/or an entity or group of entities controlled by such directors, officers or employees, its Class A limited voting shares or other shares eligible to vote (“Voting Stock”) into which Brookfield’s Class A limited voting shares are reclassified, consolidated, exchanged or changed continue to be listed and posted for trading on a national securities exchange in the United States, Canada or Europe), becomes the beneficial owner (as defined in Rules 13d-3 and 13d-5 under the Exchange Act), directly or indirectly, of (i) more than 50% of the voting power of each class of the Brookfield’s Voting Stock or other Voting Stock into which Brookfield’s Voting Stock is reclassified, consolidated, exchanged or changed measured by voting power rather than number of shares or (ii) Voting Stock sufficient to enable it to elect a majority of the members of Brookfield’s board of directors. For the purposes of this section, “person” and “group” have the meanings attributed to them in Sections 13(d) and 14(d) of the Exchange Act;
+ 
+1.1.12 “Brookfield Group” means Brookfield and its Affiliates, other than any member of the TERP Group;
+ 
+1.1.13 “Business” means the business carried on from time to time by the TERP Group;
+ 
+1.1.14 “Business Day” means every day except a Saturday or Sunday, or a day which is a statutory or civic holiday in the Province of Ontario or the State of New York;
+ 
+1.1.15 “Canadian Service Provider” has the meaning assigned thereto in the preamble;
+ 
+1.1.16 “Canadian Service Provider II” has the meaning assigned thereto in the preamble;
+ 
+1.1.17 “Capital Commitment” means, with respect to any Operating Entity, at any time, the amount that a Service Recipient has committed at such time to contribute (either as debt or equity) to such Operating Entity as set forth in the terms of the subscription agreement or other underlying documentation with respect to such Operating Entity at or prior to such time;
+ 
+1.1.18 “Capital Contribution” means, with respect to any Operating Entity, at any time, the amount of capital that a Service Recipient has contributed (either as debt or equity) to such Operating Entity at or prior to such time;
+ 
+1.1.19 “Capital Expenditure Plan” means a plan setting out the plan, schedule and budget for Capital Maintenance and Improvements for the Operating Renewable Assets;
+ 
+1.1.20 “Capital Maintenance and Improvement” means any material change, enhancement, addition or modification to the Operating Renewable Assets, which is intended to maintain or improve the performance of the Operating Renewable Assets, including to increase the production of energy, capacity or ancillary services from the Operating Renewable Assets;
+ 
+1.1.21 “Claims” has the meaning assigned thereto in Section 10.1.1;
+ 
+1.1.22 “Confidential Information” has the meaning assigned thereto in Section 6.5;
+ 
+1.1.23 “Conflicts Committee” means the committee of the board of directors of TERP Inc. designated as the “Conflicts Committee”;
+ 
+1.1.24 “Control” means the control by one Person of another Person in accordance with the following: a Person (“A”) controls another Person (“B”) where A has the power to determine the management and policies of B by contract or status (for example the status of A being the general partner of B) or by virtue of beneficial ownership of or control over a majority of the voting interests in B; and, for certainty and without limitation, if A owns or has control over shares or other securities to which are attached more than 50% of the votes permitted to be cast in the election of directors to the Governing Body of B or A is the general partner of B, a limited partnership, then in each case A Controls B for this purpose, and the term “Controlled” has the corresponding meaning;
+ 
+1.1.25 “Creditable Operating Entity Payment” means the proportion of each cash payment made by an Operating Entity to any member of the Brookfield Group, including any payment made in the form of a dividend, distribution or other profit entitlement, which the is comparable to the Base Management Fee that is attributable to the Equity Capital invested in or committed to that Operating Entity, as applicable; provided that the aggregate amount of any Creditable Operating Entity Payments made by such Operating Entity in any Quarter shall not exceed an amount equal to 0.3125% of the amount of Equity Capital invested in such Operating Entity;
+ 
+1.1.26 “Dispute” has the meaning assigned thereto in Section 12.1;
+ 
+1.1.27 “Entity-Level Service Agreement” means any agreement or arrangement entered into pursuant to Section 2.4 between any Service Recipient and any member of the Service Provider Group pursuant to which Services are provided;
+ 
+1.1.28 “Entity-Level Service Agreement Fee” means any cash payment, including any such payment made in the form of a dividend, distribution or other profit entitlement, which is comparable to the Base Management Fee and which is payable by a Service Recipient to a member of the Brookfield Group;
+ 
+1.1.29 “Equity Capital” means any Capital Commitment and/or (as the context requires) any Capital Contribution;
+ 
+1.1.30 “Exchange Act” means the U.S. Securities Exchange Act of 1934;
+ 
+1.1.31 “Expenses” has the meaning assigned thereto in Section 7.4.2;
+ 
+1.1.32 “Fee Amount” means an amount equal to (i) $10 million for the first four Quarters after the date of this Agreement (with the amount for the Quarter that includes the date of this Agreement to be adjusted by multiplying such amount by a fraction, the numerator of which shall be the days in such Quarter after the date of this Agreement and the denominator which is the total number of day in such Quarter), (ii) $12 million for the four Quarters subsequent thereto and (iii) thereafter, $15 million; provided that each of these amounts shall be adjusted for inflation annually at the Inflation Factor;
+ 
+1.1.33 “Governing Body” means (i) with respect to a corporation or limited company, the board of directors of such corporation or limited company, (ii) with respect to a limited liability company, the manager(s) or managing partner(s) of such limited liability company, (iii) with respect to a limited partnership, the board, committee or other body of the general partner of such partnership that serves a similar function (or if any such general partner is itself a limited partnership, the board, committee or other body of such general partner’s general partner that serves a similar function) and (iv) with respect to any other Person, the body of such Person that serves a similar function, and in the case of each of (i) through (iv) includes any committee or other subdivision of such body and any Person to whom such body has delegated any power or authority, including any officer and managing director;
+ 
+1.1.34 “Governing Instruments” means (i) the certificate of incorporation, amalgamation or continuance, as applicable, and bylaws in the case of a corporation, (ii) the memorandum and articles of association in the case of a limited company, (iii) the partnership agreement in the case of a partnership, (iv) the articles of formation and operating agreement in the case of a limited liability company, (v) the trust instrument in the case of a trust and (vi) any other similar governing document under which an entity was organized, formed or created and/or operates, including any conflict guidelines or protocols in place from time to time;
+ 
+1.1.35 “Governmental Authority” means any (i) international, national, multinational, federal, provincial, state, regional, municipal, local or other government, governmental or public department, central bank, court, tribunal, arbitral body, commission, board, bureau, agency or instrumentality, domestic or foreign, including ISO/RTOs, (ii) self-regulatory organization or stock exchange, (iii) subdivision, agent, commission, board, or authority of any of the foregoing, or (iv) quasi-governmental or private body exercising any regulatory, expropriation or taxing authority under or for the account of any of the foregoing;
+ 
+1.1.36 “Governmental Charges” has the meaning assigned thereto in Section 7.5;
+ 
+1.1.37 “IDR Terms” means non-voting membership interest conferring the right to Brookfield to receive certain incentive distribution payments pursuant to the terms set out in the Second Amended and Restated Limited Liability Company Agreement of TERP LLC dated as of the date of this Agreement;
+ 
+1.1.38 “Incentive Distribution” means any distribution pursuant to the incentive distribution rights held in TERP LLC by Brookfield pursuant to the IDR Terms, for greater certainty, does not include Entity-Level Service Agreement Fees or Creditable Operating Entity Payments;
+ 
+1.1.39 “Indemnified Party” means a Person making a claim for indemnification pursuant to Article 10;
+ 
+1.1.40 “Indemnifying Party” means a Person against whom a claim for indemnification is asserted pursuant to Article 10;
+ 
+1.1.41 “Inflation Factor” means, at any time, the fraction obtained where the numerator is the Consumer Price Index for the United States of America (all items) for the then current year and the denominator is the Consumer Price Index for the United States of America (all items) for the year immediately preceding the then current year, with appropriate mathematical adjustment made to ensure that both the numerator and the denominator have been prepared on the same basis;
+ 
+1.1.42 “Interest Rate” means, for any day, the rate of interest equal to the overnight U.S. dollar interbank offered rate on such day;
+ 
+1.1.43 “Investment Advisory Services” means any recommendation to buy, sell, vote or take any similar action with respect to a “Security” (as defined in the Advisers Act);
+ 
+1.1.44 “ISO/RTO” means an independent electricity system operator, a regional transmission organization, national system operator or any other similar organization overseeing the transmission of electricity in any jurisdiction in which the TERP Group owns assets or operates;
+ 
+1.1.45 “Laws” means any and all applicable (i) laws, constitutions, treaties, statutes, codes, ordinances, principles of common and civil law and equity, rules, regulations and municipal by-laws whether domestic, foreign or international, (ii) judicial, arbitral, administrative, ministerial, departmental and regulatory judgments, orders, writs, injunctions, decisions, and awards of any Governmental Authority, and (iii) policies, practices and guidelines of any Governmental Authority which, although not actually having the force or law, are considered by such Governmental Authority as requiring compliance as if having the force of law, and the term “applicable”, with respect to such Laws and in the context that refers to one or more Persons, means such Laws that apply to such Person or Persons or its or their business, undertaking, property or securities at the relevant time and that emanate from a Governmental Authority having jurisdiction over the Person or Persons or its or their business, undertaking, property or securities;
+ 
+1.1.46 “Liabilities” has the meaning assigned thereto in Section 10.1.1;
+ 
+1.1.47 “Market Capitalization Value Increase” means, for any Quarter, an amount equal to the number of TERP Shares issued and outstanding on the last trading day of the Quarter multiplied by the difference between (i) the Trading Price of a TERP Share for such Quarter and (ii) the Opening TERP Share Price; provided, however, that if the difference between (i) and (ii) in any Quarter is a negative number, the Market Capitalization Value Increase in such Quarter shall be deemed to be nil;
+ 
+1.1.48 “Marketing Plan” means a generation and marketing plan and related budget for the Operating Renewable Assets;
+ 
+1.1.49 “Net Base Management Fee” means the Base Management Fee, as adjusted pursuant to Section 7.1.2;
+ 
+1.1.50 “Opening TERP Share Price” means $9.52;
+ 
+1.1.51 “Operating Entities” means (i) any Subsidiary of TERP Operating, and (ii) any Person that holds Operating Renewable Assets, directly or indirectly, in which part but not all of the interests are not held by the Service Recipients, including any joint ventures, partnerships and consortium arrangements;
+ 
+1.1.52 “Operating Plan” means a plan setting out the operating costs and budget for the Operating Renewable Assets and shall include incorporation of the Marketing Plan and scheduled maintenance outages;
+ 
+1.1.53 “Operating Renewable Assets” means operating solar and/or wind assets;
+ 
+1.1.54 “Operational and Other Services” means any services (other than the Services) that are provided by any member of the Brookfield Group to the Operating Entities under the terms of an agreement entered into with an Operating Entity, including operations and maintenance, energy marketing, agency, development, operating management and other services;
+ 
+1.1.55 “Other Sponsorship Agreements” means (a) the Relationship Agreement, (b) the Sponsor Line Agreement and (c) the IDR Terms;
+ 
+1.1.56 “Permit” means any consent, license, approval, registration, permit or other authorization granted by any Governmental Authority;
+ 
+1.1.57 “Person” means any natural person, partnership, limited partnership, limited liability partnership, joint venture, syndicate, sole proprietorship, company or corporation (with or without share capital), limited liability corporation, unlimited liability company, joint stock company, unincorporated association, trust, trustee, executor, administrator or other legal personal representative, regulatory body or agency, government or Governmental Authority, authority or entity however designated or constituted and pronouns have a similarly extended meaning;
+ 
+1.1.58 “Quarter” means a calendar quarter ending on the last day of March, June, September or December;
+ 
+1.1.59 “Relationship Agreement” means the agreement entered into among Brookfield and TERP, TERP LLC and TERP Operating, dated as of the date of this Agreement;
+ 
+1.1.60 “Rules” has the meaning assigned thereto in Section 12.2.1;
+ 
+1.1.61 “SEC” means the U.S. Securities and Exchange Commission;
+ 
+1.1.62 “Service Provider Group” means the Service Providers and any member of the Brookfield Group that any Service Provider has arranged to provide the Services to any Service Recipient;
+ 
+1.1.63 “Service Provider Indemnified Party” has the meaning assigned thereto in Section 10.1.1;
+ 
+1.1.64 “Service Providers” means the Canadian Service Provider, the Canadian Service Provider II and the UK Service Provider;
+ 
+1.1.65 “Service Recipient” means TERP, TERP LLC, TERP Operating and the Subsidiaries listed on Schedule A hereto, as well as any other direct and indirect Subsidiary of TERP, TERP LLC or TERP Operating, as applicable, acquired or formed after the date hereof;
+ 
+1.1.66 “Services” has the meaning assigned thereto in Section 3.1;
+ 
+1.1.67 “Senior TERP Officers” means the chief executive officer, chief financial officer and general counsel of TERP;
+ 
+1.1.68 “Sponsor Line Agreement” means the Sponsor Line Agreement, dated as of the date of this Agreement between an Affiliate of Brookfield and TERP;
+ 
+1.1.69 “Sponsorship Agreements” means this Agreement and the Other Sponsorship Agreements;
+ 
+1.1.70 “Subsidiary” means, with respect to any Person, (i) any other Person that is directly or indirectly Controlled by such Person, (ii) any trust in which such Person holds all of the beneficial interests or (iii) any partnership, limited liability company or similar entity in which such Person holds all of the interests other than the interests of any general partner, managing member or similar Person;
+ 
+1.1.71 “TERP” has the meaning assigned thereto in the preamble;
+ 
+1.1.72 “TERP Group” means TERP and any direct or indirect Subsidiary of TERP, TERP LLC and TERP Operating;
+ 
+1.1.73 “TERP Indemnified Party” has the meaning assigned thereto in Section 10.1.2;
+ 
+1.1.74 “TERP LLC” has the meaning assigned thereto in the preamble;
+ 
+1.1.75 “TERP Operating” has the meaning assigned thereto in the preamble;
+ 
+1.1.76 “TERP Share” means each share of the Class A common stock, par value $0.01 per share, of TERP;
+ 
+1.1.77 “Third Party” means any Person other than a party or an Affiliate of a party (provided that the TERP Group and the Brookfield Group shall be considered Third Parties with respect to each other for purposes of this Agreement);
+ 
+1.1.78 “Third Party Claim” has the meaning assigned thereto in Section 10.1.3;
+ 
+1.1.79 “Trading Price” means, in any Quarter, the volume-weighted average trading price of a TERP Share for the trading days in such Quarter on a stock exchange or public quotation system;
+ 
+1.1.80 “Transaction Fees” means fees paid or payable by the Service Recipients, which are on market terms, with respect to financial advisory services provided by Third Party investment advisors in respect of transactions on which such Third Party investment advisor is mandated by a member of the TERP Group; and
+ 
+1.1.81 “UK Service Provider” has the meaning assigned thereto in the preamble.
+ 
+1.2   Headings and Table of Contents
+ 
+The inclusion of headings and a table of contents in this Agreement are for convenience of reference only and will not affect the construction or interpretation hereof.
+ 
+1.3   Interpretation
+ 
+In this Agreement, unless the context otherwise requires:
+ 
+1.3.1 words importing the singular shall include the plural and vice versa, words importing gender shall include all genders or the neuter, and words importing the neuter shall include all genders;
+ 
+1.3.2 the words “include”, “includes”, “including”, or any variations thereof, when following any general term or statement, are not to be construed as limiting the general term or statement to the specific items or matters set forth or to similar items or matters, but rather as referring to all other items or matters that could reasonably fall within the broadest possible scope of the general term or statement;
+ 
+1.3.3 references to any Person include such Person’s successors and permitted assigns;
+ 
+1.3.4 any reference to a statute, regulation, policy, rule or instrument shall include, and shall be deemed to be a reference also to, all amendments made to such statute, regulation, policy, rule or instrument and to any statute, regulation, policy, rule or instrument that may be passed which has the effect of supplementing or superseding the statute, regulation, policy, rule or instrument so referred to;
+ 
+1.3.5 any reference to this Agreement or any other agreement, document or instrument shall be construed as a reference to this Agreement or, as the case may be, such other agreement, document or instrument as the same may have been, or may from time to time be, amended, varied, replaced, amended and restated, supplemented or otherwise modified;
+ 
+1.3.6 in the event that any day on which any amount is to be determined or any action is required to be taken hereunder is not a Business Day, then such amount shall be determined or such action shall be required to be taken at or before the requisite time on the next succeeding day that is a Business Day; and
+ 
+1.3.7 except where otherwise expressly provided, all amounts in this Agreement are stated and shall be paid in U.S. currency.
+ 
+1.4   Actions by the Service Providers or the Service Recipients
+ 
+Unless the context requires otherwise, where the consent of or a determination is required by any Service Provider or Service Recipient hereunder, the parties shall be entitled to conclusively rely upon it having been given or taken, as applicable, if, such Service Provider or Service Recipient, as applicable, has communicated the same in writing.
+ 
+1.5   Generally Accepted Accounting Principles
+ 
+In this Agreement, references to “generally accepted accounting principles” mean the generally accepted accounting principles used by TERP in preparing its financial statements from time to time.
+ 
+1.6   Invalidity of Provisions
+ 
+Each of the provisions contained in this Agreement is distinct and severable and a declaration of invalidity or unenforceability of any such provision or part thereof by a court of competent jurisdiction will not affect the validity or enforceability of any other provision hereof. To the extent permitted by applicable law, the parties waive any provision of law which renders any provision of this Agreement invalid or unenforceable in any respect. The parties will engage in good faith negotiations to replace any provision which is declared invalid or unenforceable with a valid and enforceable provision, the economic effect of which comes as close as possible to that of the invalid or unenforceable provision which it replaces.
+ 
+1.7   Entire Agreement
+ 
+The Sponsorship Agreements constitute the entire agreement between the parties pertaining to the subject matter therein. There are no warranties, conditions, or representations (including any that may be implied by statute) and there are no agreements in connection with such subject matter except as specifically set forth or referred to in this Agreement or the Other Sponsorship Agreements. No reliance is placed on any warranty, representation, opinion, advice or assertion of fact made either prior to, contemporaneous with, or after entering into this Agreement by any party to this Agreement or its respective directors, officers, employees or agents, to any other party to this Agreement or its respective directors, officers, employees or agents, except to the extent that the same has been reduced to writing and included as a term of the Sponsorship Agreements, and none of the parties to this Agreement has been induced to enter into this Agreement by reason of any such warranty, representation, opinion, advice or assertion of fact. Accordingly, there will be no liability, either in tort or in contract, assessed in relation to any such warranty, representation, opinion, advice or assertion of fact, except to the extent contemplated above.
+ 
+1.8   Waiver, Amendment
+ 
+Except as expressly provided in this Agreement, no amendment or waiver of this Agreement will be binding unless executed in writing by the party to be bound thereby. No waiver of any provision of this Agreement will constitute a waiver of any other provision nor will any waiver of any provision of this Agreement constitute a continuing waiver unless otherwise expressly provided. A party’s failure or delay in exercising any right under this Agreement will not operate as a waiver of that right. A single or partial exercise of any right will not preclude a party from any other or further exercise of that right or the exercise of any other right.
+ 
+1.9   Mutual Waiver of Jury Trial
+ 
+AS A SPECIFICALLY BARGAINED-FOR INDUCEMENT FOR EACH OF THE PARTIES HERETO TO ENTER INTO THIS AGREEMENT (AFTER HAVING THE OPPORTUNITY TO CONSULT WITH COUNSEL), EACH PARTY HERETO EXPRESSLY, IRREVOCABLY AND UNCONDITIONALLY WAIVES THE RIGHT TO TRIAL BY JURY IN ANY ACTION, SUIT OR PROCEEDING RELATING TO OR ARISING IN ANY WAY FROM THIS AGREEMENT OR THE MATTERS CONTEMPLATED HEREBY.
+ 
+1.10   Consent to Jurisdiction and Service of Process
+ 
+EACH OF THE PARTIES HERETO EXPRESSLY, IRREVOCABLY AND UNCONDITIONALLY SUBMITS TO THE NON-EXCLUSIVE PERSONAL JURISDICTION OF THE FEDERAL COURTS OF THE UNITED STATES OF AMERICA LOCATED IN THE CITY AND COUNTY OF NEW YORK, BOROUGH OF MANHATTAN, FOR THE PURPOSES OF ANY SUIT, ACTION OR PROCEEDING RELATING TO OR ARISING (A) IN CONNECTION WITH INTERPRETATION OR ENFORCEMENT OF THE ARBITRATION PROVISION IN ARTICLE 12 HERETO, (B) ENFORCEMENT, MODIFICATION, CORRECTION, INTERPRETATION OR VACATION OF ANY ARBITRATION DECISION MADE PURSUANT TO ARTICLE 12 HEREOF OR (C) FOR THE PURPOSE OF OBTAINING PRELIMINARY INJUNCTIVE RELIEF IN RELATION TO ANY MATTER UNDER THIS AGREEMENT, ANY RELATED AGREEMENT OR ANY TRANSACTION CONTEMPLATED HEREBY OR THEREBY.
+ 
+EACH OF THE PARTIES HERETO FURTHER AGREES THAT SERVICE OF ANY PROCESS, SUMMONS, NOTICE OR DOCUMENT BY U.S. REGISTERED MAIL TO SUCH PARTY’S RESPECTIVE ADDRESS SET FORTH BELOW SHALL BE EFFECTIVE SERVICE OF PROCESS FOR ANY ACTION, SUIT OR PROCEEDING WITH RESPECT TO ANY MATTERS TO WHICH IT HAS SUBMITTED TO JURISDICTION IN THIS PARAGRAPH. EACH OF THE PARTIES HERETO EXPRESSLY, IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY OBJECTION TO THE LAYING OF VENUE OF ANY ACTION, SUIT OR PROCEEDING RELATING TO OR ARISING IN ANY WAY FROM THE MATTERS SET FORTH ABOVE IN THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF NEW YORK, AND HEREBY OR THEREBY FURTHER EXPRESSLY, IRREVOCABLY AND UNCONDITIONALLY WAIVES AND AGREES NOT TO PLEAD OR CLAIM IN ANY SUCH COURT THAT ANY SUCH ACTION, SUIT OR PROCEEDING BROUGHT IN ANY SUCH COURT HAS BEEN BROUGHT IN AN INCONVENIENT FORUM.
+ 
+1.11   Governing Law
+ 
+This Agreement, including rules of interpretation and defined terms incorporated herein by reference, and all claims, disputes, proceedings or similar matters arising out of this Agreement (whether sounding in contract, tort or otherwise) shall be governed by and construed in accordance with the laws of the State of New York without giving effect to the applicable principles of conflicts of law to the extent that the application of the laws of another jurisdiction would be required thereby.
+ 
+1.12   Conflicts Committee
+ 
+The Conflicts Committee, in accordance with the terms of its charter, has a role in certain matters that relate to the relationship between members of the Brookfield Group and members of the TERP Group. The parties to this Agreement acknowledge that actions taken under this Agreement that require the approval of the Conflicts Committee will only be taken after such approval has been provided.
+ 
+ARTICLE 2
+APPOINTMENT OF THE SERVICE PROVIDERS
+ 
+2.1   Appointment and Acceptance
+ 
+2.1.1 Subject to and in accordance with the terms, conditions and limitations in this Agreement, the Service Recipients party hereto hereby appoint the Service Providers to provide or arrange for other members of the Service Provider Group to provide the Services (including personnel and support staff, as required by the Service Provider Group to provide the Services) to all of the Service Recipients. This appointment will be subject to each Service Recipient’s Governing Body’s supervision of the Service Providers and obligation of such Governing Body to manage and control the affairs of such Service Recipient.
+ 
+2.1.2 The Service Providers hereby accept the appointment provided for in Section 2.1.1 and agree to act in such capacity and to provide or arrange for other members of the Service Provider Group to provide the Services to the Service Recipients upon the terms, conditions and limitations in this Agreement.
+ 
+2.1.3 Notwithstanding any provision herein to the contrary, all services that constitute investment advice with respect to “securities” (as that term is defined in the Advisers Act) shall be provided by Canadian Service Provider II.
+ 
+2.2   Other Service Recipients
+ 
+The parties acknowledge that any Subsidiary of the Service Recipients formed or acquired in the future that is not a Service Recipient on the date hereof will become a Service Recipient under this Agreement. In the event that any such addition results in an amendment of the scope of the Services, such amendment shall be effectuated as provided by Section 1.8 hereof.
+ 
+2.3   Subcontracting and Other Arrangements
+ 
+Any Service Provider may subcontract to any other member of the Service Provider Group or any of its other Affiliates, or arrange for the provision of any or all of the Services to be provided by it under this Agreement by any other member of the Service Provider Group or any other of its Affiliates, and the Service Recipients hereby consent to any such subcontracting or arrangement; provided that the Service Providers shall remain responsible to the Service Recipients for any Services provided by such other member of the Service Provider Group or Affiliate. Any such sub-contracting will be subject to the terms of this Agreement and covered by the fees payable under this Agreement.
+ 
+2.4   Entity-Level Service Agreements
+ 
+If required from time to time, any Service Provider may provide a Service set forth in Article 3 to any member of the TERP Group under an Entity-Level Service Agreement entered into between the applicable Service Provider and such member of the TERP Group. Any such services will be the subject of the Entity-Level Service Agreement and covered by fees payable under such agreement but such fees will be credited against the fees payable under this Agreement as set forth in Section 7.1.2.
+ 
+ARTICLE 3
+SERVICES AND POWERS OF THE SERVICE PROVIDERS
+ 
+3.1   Services
+ 
+The Service Providers will provide or arrange for the provision by other members of the Service Provider Group of, and will have the exclusive power and authority to provide or arrange for the provision by other members of the Service Provider Group of, the following services (the “Services”) to the Service Recipients:
+ 
+3.1.1 causing or supervising the carrying out of all day to day management, secretarial, accounting, banking, treasury, administrative, liaison, representative, regulatory and reporting functions and obligations;
+ 
+3.1.2 providing overall strategic advice in relation to the Business, including advising with respect to the expansion of the Business;
+ 
+3.1.3 supervising the establishment and maintenance of books and records;
+ 
+3.1.4 identifying, evaluating and recommending acquisitions or dispositions from time to time and, where requested to do so, assisting in negotiating the terms of such acquisitions or dispositions;
+ 
+3.1.5 recommending and, where requested to do so, assisting in the raising of funds whether by way of debt, equity or otherwise, including the preparation, review or distribution of any prospectus or offering memorandum in respect thereof and assisting with communications support in connection therewith;
+ 
+3.1.6 causing or supervising the preparation and implementation of any Operating Plan and Capital Expenditure Plan;
+ 
+3.1.7 recommending suitable candidates to serve on the Governing Bodies of the Operating Entities;
+ 
+3.1.8 making recommendations with respect to the exercise of any voting rights to which applicable members of the TERP Group are entitled in respect of the Operating Entities;
+ 
+3.1.9 making recommendations with respect to the payment of dividends or any other distributions by the Service Recipients, including distributions by TERP to its stockholders;
+ 
+3.1.10 monitoring and/or oversight of the applicable Service Recipient’s accountants, legal counsel and other accounting, financial or legal advisors and technical, commercial, marketing and other independent experts and managing litigation in which a Service Recipient is sued or commencing litigation after consulting with, and subject to the approval of, the relevant Governing Body;
+ 
+3.1.11 attending to all matters necessary for any reorganization, bankruptcy proceedings, dissolution or winding up of a Service Recipient, subject to approval by the relevant Governing Body;
+ 
+3.1.12 supervising the timely calculation and payment of taxes payable, and the filing of all tax returns due, by each Service Recipient;
+ 
+3.1.13 causing or supervising the preparation of the Service Recipients’ annual consolidated financial statements, quarterly interim financial statements and other public disclosure;
+ 
+3.1.14 making recommendations in relation to and effecting the entry into insurance of each Service Recipient’s assets, together with other insurances against other risks, including directors and officers insurance, as the relevant member of the Service Provider Group and the relevant Governing Body may from time to time agree;
+ 
+3.1.15 arranging for individuals to carry out the functions of the Senior TERP Officers, which such senior officers shall be appointed by the Service Providers and shall have as their primary responsibilities the provision of Services to the Service Recipients;
+ 
+3.1.16 advising the Service Recipients regarding the maintenance of compliance with applicable Laws and other obligations; and
+ 
+3.1.17 providing all such other services as may from time to time be agreed with the Service Recipients that are reasonably related to the Service Recipient’s day to day operations.
+ 
+Notwithstanding any provision herein to the contrary, all Investment Advisory Services shall be provided by a Service Provider that is registered with the SEC as an investment adviser (or through such a Service Provider by participating affiliates thereof relying on the SEC’s Uniao de Bancos de Brasileiros S.A. no action letter dated July 28, 1992 and the subsequent letters related thereto).
+ 
+3.2   Responsibility for Certain Services
+ 
+Notwithstanding any provision herein to the contrary, the UK Service Provider shall not be responsible for the provision of, nor shall it provide, the Services described in Sections 3.1.1, 3.1.3, 3.1.5, 3.1.9-3.1.13 and 3.1.17.
+ 
+3.3   Supervision of Service Providers’ Activities
+ 
+The Service Providers shall, at all times, be subject to the supervision of the relevant Service Recipient’s Governing Body and the relevant Governing Body shall remain responsible for all investment and divestment decisions made by the Service Recipient.
+ 
+3.4   Restrictions on the Service Providers
+ 
+3.4.1 The Service Providers shall, and shall cause any other member of the Service Provider Group to, refrain from taking any action that is not in compliance with or would violate any Laws or that otherwise would not be permitted by the Governing Instruments of the Service Recipients. If any Service Provider or any member of the Service Provider Group is instructed to take any action that is not in such compliance by a Service Recipient’s Governing Body, such person will promptly notify such Governing Body of its judgment that such action would not comply with or violate any such Laws or otherwise would not be permitted by such Governing Instrument.
+ 
+3.4.2 In performing its duties under this Agreement, each member of the Service Provider Group shall be entitled to rely in good faith on qualified experts, professionals and other agents (including on accountants, appraisers, consultants, legal counsel and other, professional advisors) and shall be permitted to rely in good faith upon the direction of a Service Recipient’s Governing Body to evidence any approvals or authorizations that are required under this Agreement. All references in this Agreement to the Service Recipients or Governing Body for the purposes of instructions, approvals and requests to the Service Providers will refer to the Governing Body.
+ 
+3.5   Errors and Omissions Insurance
+ 
+Each of the Service Providers shall, and shall cause any other member of the Service Provider Group to, at all times during the term of this Agreement maintain “errors and omissions” insurance coverage and other insurance coverage which is customarily carried by Persons performing functions that are similar to those performed by the members of the Service Provider Group under this Agreement with reputable insurance companies and in an amount which is comparable to that which is customarily maintained by such other Persons. In each case, the relevant Service Recipients shall be included as additional insured or loss payees under the relevant policies.
+ 
+ARTICLE 4
+RELATIONSHIP BETWEEN THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS
+ 
+4.1   Other Activities
+ 
+Subject to the terms of the Relationship Agreement, no member of the Service Provider Group (and no Affiliate, director, officer, member, partner, shareholder or employee of any member of the Service Provider Group) shall be prohibited from engaging in other business activities or sponsoring, or providing services to, Third Parties that compete directly or indirectly with the Service Recipients.
+ 
+4.2   Exclusivity
+ 
+Except as expressly provided for herein, the Service Recipients party hereto shall not, and shall cause all of the Service Recipients not to, during the term of this Agreement, engage any other Person to provide any services comparable to the Services without the prior written consent of the Service Providers.
+ 
+4.3   Independent Contractor, No Partnership or Joint Venture
+ 
+The parties acknowledge that the Service Providers are providing or arranging for the provision of the Services hereunder as independent contractors and that the Service Recipients and the Service Providers are not partners or joint venturers with or agents of each other, and nothing herein will be construed so as to make them partners, joint venturers or agents or impose any liability as such on any of them as a result of this Agreement; provided however that nothing herein will be construed so as to prohibit the Service Recipients and the Service Providers from embarking upon an investment together as partners, joint venturers or in any other manner whatsoever.
+ 
+ARTICLE 5
+MANAGEMENT AND EMPLOYEES
+ 
+5.1   Management and Employees
+ 
+5.1.1 The Service Providers shall arrange, or shall arrange for another member of the Service Provider Group to arrange, for such qualified personnel and support staff to be available to carry out the Services. Such personnel and support staff shall devote such of their time to the provision of the Services to the Service Recipients as the relevant member of the Service Provider Group, after considering reasonable personnel and staffing requests (if any) made by the Service Recipients, reasonably deems necessary and appropriate in order to fulfill its obligations hereunder. The Senior TERP Officers will be dedicated on a full time basis to the TERP Group and have as their primary responsibility the provision of Services to the TERP Group. Other Service Provider personnel and support staff need not have as their primary responsibility the provision of the Services to the Service Recipients or be dedicated exclusively to the provision of the Services to the Service Recipients.
+ 
+5.1.2 Each of the Service Recipients shall do all things reasonably necessary on its part as requested by any member of the Service Provider Group consistent with the terms of this Agreement to enable the members of the Service Provider Group to fulfill their obligations, covenants and responsibilities and to exercise their rights pursuant to this Agreement, including making available to the Service Provider Group, and granting the Service Provider Group access to, the employees and contractors of the Service Recipients as any member of the Service Provider Group may from time to time request.
+ 
+5.1.3 The Service Providers party hereto covenant and agree to exercise, and to cause any member of the Service Provider Group that provides Services to the Service Recipient to covenant and agree to exercise, the power and discharge the duties conferred under this Agreement honestly and in good faith, and shall, and shall cause any member of the Service Provider Group that provides Services to the Service Recipient, exercise the degree of care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances, subject to, and after taking into account, the terms of and conditions of the Relationship Agreement.
+ 
+ARTICLE 6
+INFORMATION AND RECORDS
+ 
+6.1   Books and Records
+ 
+6.1.1 The Service Providers shall, or shall cause any other member of the Service Provider Group to, as applicable, supervise the establishment and maintenance by the Service Recipients of proper books, records and documents in which complete, true and correct entries, in conformity in all material respects with generally accepted accounting principles and all requirements of applicable Laws, will be made.
+ 
+6.1.2 The Service Recipients shall maintain proper books, records and documents in which complete, true and correct entries, in conformity in all material respects with generally accepted accounting principles and all requirements of applicable Laws, will be made.
+ 
+6.2   Examination of Records by the Service Recipients
+ 
+6.2.1 The Service Providers party hereto shall and shall cause any member of the Service Provider Group to:
+ 
+6.2.1.1 upon reasonable prior notice by the Service Recipients to the relevant member of the Service Provider Group, the relevant member of the Service Provider Group will make available to the Service Recipients and their authorized representatives, for examination during normal business hours on any Business Day, any books, records and documents maintained by the Service Provider Group in connection with the books, records and documents required to be maintained by the Service Recipients under Section 6.1.2;
+ 
+6.2.1.2 make available to the Service Recipients or their authorized representatives such financial and operating data in respect of the performance of the Services under this Agreement as may be in existence and as the Service Recipients or their authorized representatives, will from time to time reasonably request, including for the purposes of conducting any audit in respect of expenses of the Service Recipients or other matters necessary or advisable to be audited in order to conduct an audit of the financial affairs of the Service Recipients; provided that any examination of records will be conducted in a manner which will not unduly interfere with the conduct of the Service Recipients’ activities or of the Service Provider Group’s business in the ordinary course;
+ 
+6.2.1.3 provide, or cause to be provided, all available documentation and information as may be reasonably requested by the Senior TERP Officers or Conflicts Committee; and
+ 
+6.2.1.4 promptly notify the Service Recipients of any material facts or information of which the Service Provider is aware, including any known, pending or threatened suits, actions, claims, proceedings or orders by or against any Service Provider before any Governmental Authority, that may affect the performance of the obligations, covenants or responsibilities of the Service Provider Group pursuant to this Agreement, including maintenance of proper financial records by the Service Recipient.
+ 
+
+6.3   Access to Information by Service Provider Group
+ 
+6.3.1 The Service Recipients party hereto shall and shall cause all Service Recipients to:
+ 
+6.3.1.1 grant, or cause to be granted, to the Service Provider Group full access to all documentation and information, including all of the books, records, and documents required to be maintained under Section 6.1.2, necessary in order for the Service Provider Group to perform its obligations, covenants and responsibilities pursuant to the terms hereof and to enable the Service Provider Group to provide the Services; and
+ 
+6.3.1.2 provide, or cause to be provided, all documentation and information as may be reasonably requested by any member of the Service Provider Group, and promptly notify the appropriate member of the Service Provider Group of any material facts or information of which the Service Recipients is aware, including any known, pending or threatened suits, actions, claims, proceedings or orders by or against any member of the TERP Group before any Governmental Authority, that may affect the performance of the obligations, covenants or responsibilities of the Service Provider Group pursuant to this Agreement, including maintenance of proper financial records.
+ 
+6.4   Additional Information
+ 
+The parties acknowledge and agree that conducting the activities and providing the Services contemplated herein may have the incidental effect of providing additional information which may be utilized with respect to, or may augment the value of, business interests and related assets in which any member of the Service Provider Group or any of its Affiliates has an interest and that, subject to compliance with this Agreement, none of the members of the Service Provider Group or any of their respective Affiliates will be liable to account to the Service Recipients with respect to such activities or results; provided, however, that the relevant member of the Service Provider Group will not (and will cause its Affiliates not to), in making any use of such additional information, do so in any manner that the relevant member of the Service Provider Group or its Affiliates knows, or ought reasonably to know, would cause or result in a breach of any confidentiality provision of agreements to which any Service Recipient is (or may become) a party or is (or may become) bound.
+ 
+6.5   Confidential Information
+ 
+The confidentiality provisions in Section 7.2 of the Relationship Agreement apply to this Agreement mutatis mutandis as though incorporated herein.
+ 
+ARTICLE 7
+FEES AND EXPENSES
+ 
+7.1   Net Base Management Fee and Base Management Fee Adjustment
+ 
+7.1.1 TERP hereby agrees to pay as provided by this Article 7, during the term of this Agreement, the Net Base Management Fee, quarterly in arrears.
+ 
+7.1.2 The amount of the Net Base Management Fee payable hereunder for any Quarter will be equal to the amount of the Base Management Fee reduced (the “Base Management Fee Adjustment”) by the following amounts, to the extent that such amounts have not previously reduced the amount of the Base Management Fee as a result of the application of the Base Management Fee Adjustment in a previous Quarter:
+ 
+7.1.2.1 any Entity-Level Service Agreement Fees paid in or payable for that Quarter; and
+ 
+7.1.2.2 any Creditable Operating Entity Payments paid in or payable for that Quarter.
+ 
+7.1.3 For greater certainty, the Base Management Fee will not be reduced by operation of this Agreement by the amount of any (a) Incentive Distribution; (ii) fees for Operational and Other Services that are paid or payable by any Operating Entity to any member of the Brookfield Group; or (iii) Transaction Fees.
+ 
+7.2   Maximum Fees Payable by Service Recipients
+ 
+In no event shall TERP, or any of the Service Recipients, be obligated under this Agreement and the Entity-Level Service Agreements to pay, in the aggregate in respect of any Quarter, any amount exceeding the Base Management Fee payable for that Quarter, after giving effect to any reductions for Creditable Operating Entity Payments contemplated by Section 7.1.2.
+ 
+7.3   Computation and Payment of Net Base Management Fee
+ 
+7.3.1 The Service Providers or another member of the Service Provider Group will compute each installment of the Net Base Management Fee (including computation of the Base Management Fee Adjustment) as soon as practicable following the end of the Quarter with respect to which such installment is payable, but in any event no later than five Business Days following the end of such Quarter. An invoice setting out such fee payable and a copy of the computations and allocations made (such computations and allocations for informational purposes only) will thereafter promptly be delivered to each Service Recipient by the relevant member of the Service Provider Group upon request. Payment of the Net Base Management Fee for any Quarter (whether in cash, TERP Shares or a combination of cash and TERP Shares) shall be due and payable promptly after the 45th day following the date of such invoice by the relevant Service Recipient. For greater certainty, any Dispute relating to the computation of the Net Base Management Fee or any invoicing thereof shall be resolved in accordance with Article 12.
+ 
+7.3.2 For any Quarter in which the Governing Body of TERP determines, based on applicable law, that the TERP Group has insufficient cash available to pay the Net Base Management Fee as well as the regular distribution on TERP Shares for such period and based on such conditions as are required under applicable law, TERP may elect to pay all or a portion of the Net Base Management Fee payable in such Quarter in TERP Shares, provided that (i) any such election shall be made within 45 days following the end of the applicable Quarter and (ii) no such payment shall be made in TERP Shares without the written consent of Brookfield. If TERP elects to pay all or a portion of the Net Base Management Fee in TERP Shares, TERP shall issue, and the applicable Service Provider nominated by Brookfield hereby agrees to acquire, TERP Shares equal to the portion of the Net Base Management Fee elected to be paid in TERP Shares divided by the volume weighted average trading price of a TERP Share for the 90 trading days ending on the date TERP makes such election, provided that no fractional TERP Shares shall be issued, and such number shall be rounded down to the nearest whole number with the remainder payable to the Service Providers in cash. In such case, TERP is directed to apply such payment against the subscription price for such TERP Shares.
+ 
+7.3.3 If TERP elects to pay all or any portion of the Net Base Management Fee for any Quarter in TERP Shares, the Service Recipients shall take or cause to be taken all appropriate action to issue such TERP Shares, including any action required to ensure that such TERP Shares are issued in accordance with applicable Laws and listed on any applicable stock exchanges and public quotation systems.
+ 
+7.4   Expenses
+ 
+7.4.1 The Service Providers acknowledge and agree that the Service Recipients will not be required to reimburse any member of the Service Provider Group for the salaries and other remuneration of the management, personnel or support staff who provide the Services to such Service Recipients or overhead for such persons.
+ 
+7.4.2 Each of the Service Recipients shall reimburse the relevant member of the Service Provider Group for all documented out-of-pocket fees, costs and expenses, including those of any Third Party (other than those contemplated by Section 7.4.1) (“Expenses”), incurred by the relevant member of the Service Provider Group in connection with the provision of the Services. Such Expenses are expected to include, among other things:
+ 
+7.4.2.1 fees, costs and expenses relating to any debt or equity financing of any member of the TERP Group;
+ 
+7.4.2.2 fees, costs and expenses incurred in connection with the general administration of any Service Recipient;
+ 
+7.4.2.3 taxes, licenses and other statutory fees or penalties levied against or in respect of a Service Recipient in respect of Services;
+ 
+7.4.2.4 amounts paid by the relevant member of the Service Provider Group under indemnification, contribution or similar arrangements;
+ 
+7.4.2.5 fees, costs and expenses relating to financial reporting, regulatory filings and investor relations and the fees, costs and expenses of agents, advisors and other Persons who provide Services to a Service Recipient;
+ 
+7.4.2.6 any other fees, costs and expenses incurred by the relevant member of the Service Provider Group that are reasonably necessary for the performance by the relevant member of the Service Provider Group of its duties and functions under this Agreement or any Entity-Level Service Agreement; and
+ 
+7.4.2.7 fees, expenses and costs incurred in connection with the investigation, acquisition, holding or disposal of any asset or business that is made or that is proposed to be made.
+ 
+7.5   Governmental Charges
+ 
+Without limiting Section 7.4, TERP, on behalf of the Service Recipients, shall pay or reimburse the relevant member of the Service Provider Group for all sales taxes, use taxes, value added taxes, goods and services taxes, harmonized sales taxes, withholding taxes or other similar taxes, customs duties or other governmental charges (“Governmental Charges”) that are levied or imposed by any Governmental Authority by reason of this Agreement, any Entity-Level Service Agreement or any other agreement contemplated by this Agreement, or the fees or other amounts payable hereunder or thereunder, except for any income taxes, corporation taxes, capital taxes or other similar taxes payable by any member of the Service Provider Group which are personal to such member of the Service Provider Group. Any failure by the Service Provider Group to collect monies on account of these Governmental Charges shall not constitute a waiver of the right to do so.
+ 
+7.6   Computation and Payment of Expenses and Governmental Charges
+ 
+From time to time the Service Providers shall, or shall cause the other members of the Service Provider Group to, prepare statements (each an “Expense Statement”) documenting the Expenses and Governmental Charges to be reimbursed pursuant to this Article 7 and shall deliver such statements to the relevant Service Recipient. All Expenses and Governmental Charges reimbursable pursuant to this Article 7 shall be reimbursed by the relevant Service Recipient no later than the date which is 30 days after receipt of an Expense Statement. The provisions of this Section 7.6 shall survive the termination of this Agreement.
+ 
+ARTICLE 8
+BROOKFIELD’S OBLIGATION
+ 
+Brookfield’s obligations pursuant to this Agreement shall be to cause the members of the Service Provider Group to provide Services to the Service Recipients in accordance with the terms of this Agreement and to perform each such Service Provider’s obligations hereunder. Brookfield will also be obligated directly pursuant to Sections 1.9, 1.10, 1.11, 1.12 and 5.1 and Articles 12 and 13.
+ 
+ARTICLE 9
+REPRESENTATIONS AND WARRANTIES
+OF THE SERVICE PROVIDERS AND THE SERVICE RECIPIENTS
+ 
+9.1   Representations and Warranties of the Service Providers
+ 
+Each of the Service Providers hereby represents and warrants to the Service Recipients that:
+ 
+9.1.1 it is validly organized and existing under the Laws governing its formation and existence;
+ 
+9.1.2 it, or another member of the Service Provider Group, holds such Permits necessary to perform its obligations hereunder and is not aware of any reason why such Permits might be cancelled;
+ 
+9.1.3 it has the power, capacity and authority to enter into this Agreement and to perform its obligations hereunder;
+ 
+9.1.4 it has taken all necessary action to authorize the execution, delivery and performance of this Agreement;
+ 
+9.1.5 the execution and delivery of this Agreement by it and the performance by it of its obligations hereunder do not and will not (a) contravene, breach or result in any default under its Governing Instruments, or (b) contravene, breach or result in any default under any mortgage, lease, agreement or other legally binding instrument, Permit or applicable Law to which it is a party or by which it or any of its properties or assets may be bound, except, in the case of clause (b), where such contravention, breach or default would not, individually or in the aggregate, be reasonably likely to have a material adverse effect on any Service Provider or the provision of the Services;
+ 
+9.1.6 no authorization, consent or approval, or filing with or notice to any Person is required in connection with the execution, delivery or performance by it of this Agreement; and
+ 
+9.1.7 this Agreement constitutes a valid and legally binding obligation of it enforceable against it in accordance with its terms, subject to (i) applicable bankruptcy, insolvency, moratorium, fraudulent conveyance, reorganization and other laws of general application limiting the enforcement of creditors’ rights and remedies generally and (ii) general principles of equity, including standards of materiality, good faith, fair dealing and reasonableness, equitable defenses and limits as to the availability of equitable remedies, whether such principles are considered in a proceeding at law or in equity.
+ 
+9.2   Representations and Warranties of the Service Recipients
+ 
+TERP, TERP LLC and TERP Operating each hereby represents and warrants, on its behalf and on behalf of each of the other Service Recipients, to the Service Providers that:
+ 
+9.2.1 it (and, if applicable, its managing member) is validly organized and existing under the Laws governing its formation and existence;
+ 
+9.2.2 it, or the relevant Service Recipient, holds such Permits necessary to own and operate the Operating Renewable Assets that it directly or indirectly owns or operates from time to time and is not aware of any reason why such Permits might be cancelled;
+ 
+9.2.3 it (or, as applicable, its managing member on its behalf) has the power, capacity and authority to enter into this Agreement and to perform its duties and obligations hereunder;
+ 
+9.2.4 it (or, as applicable, its managing member) has taken all necessary action to authorize the execution, delivery and performance of this Agreement;
+ 
+9.2.5 the execution and delivery of this Agreement by it (or, as applicable, its managing member on its behalf) and the performance by it of its obligations hereunder do not and will not (a) contravene, breach or result in any default under its Governing Instruments (or, if applicable, the Governing Instruments of its managing member), or (b) contravene, breach or result in any default under any mortgage, lease, agreement or other legally binding instrument, Permit or applicable Law to which it is a party or by which any of its properties or assets may be bound, except, in the case of clause (b), where such contravention, breach or default would not, individually or in the aggregate, be reasonably likely to have a material adverse effect on any Service Recipient;
+ 
+9.2.6 no authorization, consent or approval, or filing with or notice to any Person is required in connection with the execution, delivery or performance by it (or, as applicable, its managing member on its behalf) of this Agreement; and
+ 
+9.2.7 this Agreement constitutes a valid and legally binding obligation of it enforceable against it in accordance with its terms, subject to: (a) applicable bankruptcy, insolvency, moratorium, fraudulent conveyance, reorganization and other laws of general application limiting the enforcement of creditors’ rights and remedies generally; and (b) general principles of equity, including standards of materiality, good faith, fair dealing and reasonableness, equitable defenses and limits as to the availability of equitable remedies, whether such principles are considered in a proceeding at law or in equity.
+ 
+ 
+ARTICLE 10
+LIABILITY AND INDEMNIFICATION
+ 
+10.1   Indemnity
+ 
+10.1.1 The Service Recipients party hereto hereby jointly and severally agree, and agree to cause any other Service Recipients, to the fullest extent permitted by applicable Laws, to indemnify and hold harmless each member of the Service Provider Group, any of its Affiliates (other than any member of the TERP Group) and any directors, officers, agents, subcontractors, delegatees, members, partners, shareholders, employees and other representatives of each of the foregoing (each, a “Service Provider Indemnified Party”) from and against any claims, liabilities, losses, damages, costs or expenses (including legal fees) (“Liabilities”) incurred by them or threatened in connection with any and all actions, suits, investigations, proceedings or claims of any kind whatsoever, whether arising under statute or action of a Governmental Authority, in each case, to the extent in connection with the business, investments and activities of the Service Recipients in respect of or arising from this Agreement or the Services provided hereunder (“Claims”), including any Claims arising on account of the Governmental Charges contemplated by Section 7.5; provided that no Service Provider Indemnified Party shall be so indemnified with respect to any Claim to the extent that such Claim is finally determined by a final and non-appealable judgment entered by a court of competent jurisdiction, or pursuant to a settlement agreement agreed to by such Service Provider Indemnified Party, to have resulted from such Service Provider Indemnified Party’s bad faith, fraud, wilful misconduct, gross negligence or, in the case of a criminal matter, conduct undertaken with knowledge that the conduct was unlawful.
+ 
+10.1.2 The Service Providers hereby jointly and severally agree, to the fullest extent permitted by applicable Laws, to indemnify and hold harmless each of the Service Recipients, any of its Affiliates (other than any member of the Service Provider Group), and any directors, officers, agents, delegatees, members, partners, shareholders, employees and other representatives of each of the foregoing (each, a “TERP Indemnified Party”) from and against any Liabilities incurred by them or threatened in connection with any Claims resulting from any member of the Service Provider Group’s bad faith, fraud, wilful misconduct, gross negligence and, in the case of a criminal matter, conduct undertaken with the knowledge that the conduct was unlawful.
+ 
+10.1.3 If any action, suit, investigation, proceeding or claim is made or brought by any Third Party with respect to which an Indemnifying Party is obligated to provide indemnification under this Agreement (a “Third Party Claim”), the Indemnified Party will have the right to employ its own counsel in connection therewith, and the reasonable fees and expenses of such counsel, as well as the reasonable costs (excluding an amount reimbursed to such Indemnified Party for the time spent in connection therewith) and out-of-pocket expenses incurred in connection therewith will be paid by the Indemnifying Party in such case, as incurred but subject to recoupment by the Indemnifying Party if ultimately it is not liable to pay indemnification hereunder.
+ 
+10.1.4 The Indemnified Party and the Indemnifying Party agree that, promptly after the receipt of notice of the commencement of any Third Party Claim, the Indemnified Party in such case will notify the Indemnifying Party in writing of the commencement of such Third Party Claim (provided that any accidental failure to provide any such notice will not prejudice the right of any such Indemnified Party hereunder) and, throughout the course of such Third Party Claim, such Indemnified Party will use its best efforts to provide copies of all relevant documentation to such Indemnifying Party and will keep the Indemnifying Party apprised of the progress thereof and will discuss with the Indemnifying Party all significant actions proposed.
+ 
+10.1.5 The parties hereto expressly acknowledge and agree that the right to indemnity provided in this Section 10.1 shall be in addition to and not in derogation of any other liability which the Indemnifying Party in any particular case may have or of any other right to indemnity or contribution which any Indemnified Party may have by statute or otherwise at law.
+ 
+10.1.6 The indemnity provided in this Section 10.1 shall survive the completion of Services rendered under, or any termination or purported termination of, this Agreement.
+ 
+10.2   Limitation of Liability
+ 
+10.2.1 The Service Providers assume no responsibility under this Agreement other than to render the Services pursuant to this Agreement in good faith and will not be responsible for any action of a Service Recipient’s Governing Body in following or declining to follow any advice or recommendations of the relevant member of the Service Provider Group, including as set forth in Section 3.3 hereof.
+ 
+10.2.2 The Service Recipients hereby agree that no Service Provider Indemnified Party will be liable to a Service Recipient, a Service Recipient’s Governing Body (including, for greater certainty, a director or officer of a Service Recipient or another individual with similar function or capacity) or any security holder or partner of a Service Recipient for any Liabilities that may occur as a result of any acts or omissions by the Service Provider Indemnified Party pursuant to or in accordance with this Agreement, except to the extent that such Liabilities are finally determined by a final and non-appealable judgment entered by a court of competent jurisdiction to have resulted from the Service Provider Indemnified Party’s bad faith, fraud, wilful misconduct, gross negligence, or in the case of a criminal matter, conduct undertaken with knowledge that the conduct was unlawful.
+ 
+10.2.3 The maximum amount of the aggregate liability of the Service Provider Indemnified Parties pursuant to this Agreement will be equal to the aggregate of all amounts paid to any Service Provider in respect of Services pursuant to this Agreement or any agreement or arrangement contemplated by this Agreement in the two most recent calendar years by the Service Recipients pursuant to Article 7.
+ 
+10.2.4 For the avoidance of doubt, the provisions of this Section 10.2 shall survive the completion of the Services rendered under, or any termination or purported termination of, this Agreement.
+ 
+10.3   Benefit to all Indemnified Parties
+ 
+10.3.1 TERP, TERP LLC and TERP Operating on behalf of themselves and the other Service Recipients hereby constitute the Service Providers as trustees for each of the Service Provider Indemnified Parties of the covenants of the Service Recipients under this Article 10 with respect to such Service Provider Indemnified Parties and the Service Providers hereby accept such trust and agree to hold and enforce such covenants on behalf of the Indemnified Parties.
+ 
+10.3.2 The Service Providers hereby constitute the Service Recipients as trustees for each of the TERP Indemnified Parties of the covenants of the Service Providers under this Article 10 with respect to such TERP Indemnified Parties and the Service Recipients hereby accept such trust and agree to hold and enforce such covenants on behalf of the TERP Indemnified Parties.
+ 
+10.4   No Waiver
+ 
+U.S. federal and state securities laws impose liabilities under certain circumstances on Persons who act in good faith; nothing herein shall constitute a waiver or limitation of any rights which the Service Recipients may have, if any, under any applicable U.S. federal and state securities laws.
+ 
+ARTICLE 11
+TERM AND TERMINATION
+ 
+11.1   Term
+ 
+This Agreement shall continue in full force and effect, in perpetuity, until terminated in accordance with Section 11.2 or Section 11.3.
+ 
+11.2   Termination by the Service Recipients
+ 
+11.2.1 TERP, on behalf of the Service Recipients may, subject to Section 11.2.2, terminate this Agreement effective upon written notice of termination to the Service Providers without payment of any termination fee:
+ 
+11.2.1.1 if any of the Service Providers defaults in the performance or observance of any material term, condition or agreement contained in this Agreement in a manner that results in material harm to the Service Recipients and such default continues for a period of 60 days after written notice thereof specifying such default and requesting that the same be remedied in such 60-day period; provided, however, that if the fact, circumstance or condition that is the subject of such obligation cannot reasonably be remedied within such 60-day period and if, within such period, the Service Providers provide reasonable evidence to the Service Recipients that they have commenced, and thereafter proceed with all due diligence, to remedy the fact, circumstance or condition that is the subject of such obligation, such period shall be extended for a reasonable period satisfactory to the Service Recipients, acting reasonably, for the Service Providers to remedy the same;
+ 
+11.2.1.2 if any Brookfield Group member defaults in the performance or observance of any material term, condition or agreement contained in the Relationship Agreement to which it is a party in a manner that results in material harm to the TERP Group or any member thereof and such default continues for a period of 60 days after written notice thereof specifying such default and requesting that the same be remedied in such 60-day period; provided, however, that if the fact, circumstance or condition that is the subject of such obligation cannot reasonably be remedied within such 60-day period and if, within such period, the Brookfield Group member party to such agreement provides reasonable evidence to the TERP Group member party to such agreement that it has commenced, and thereafter proceeds with all due diligence, to remedy the fact, circumstance or condition that is the subject of such obligation, such period shall be extended for a reasonable period satisfactory to the TERP Group member party to such agreement, acting reasonably, for the Brookfield Group member party to such agreement to remedy the same;
+ 
+11.2.1.3 if any of the Service Providers engages in any act of fraud, misappropriation of funds or embezzlement against any Service Recipient that results in harm to the Service Recipients;
+ 
+11.2.1.4 if there is an event of any gross negligence on the part of any of the Service Providers in the performance of its obligations under this Agreement and such gross negligence results in material harm to the Service Recipients;
+ 
+11.2.1.5 if any of the Service Providers makes a general assignment for the benefit of its creditors, institutes proceedings to be adjudicated voluntarily bankrupt, consents to the filing of a petition of bankruptcy against it, is adjudicated by a court of competent jurisdiction as being bankrupt or insolvent, seeks reorganization under any bankruptcy law or consents to the filing of a petition seeking such reorganization or has a decree entered against it by a court of competent jurisdiction appointing a receiver liquidator, trustee or assignee in bankruptcy or in insolvency, and the Brookfield Group fails to offer an alternative Service Provider reasonably satisfactory to TERP within 10 Business Days;
+ 
+11.2.1.6 upon such date that Brookfield and/or its Controlled Affiliates no longer beneficially own capital stock representing more than 25% of the voting power of all the capital stock issued by TERP outstanding on such date; or
+ 
+11.2.1.7 upon a Brookfield Change of Control.
+ 
+11.2.2 Each of TERP, TERP LLC and TERP Operating hereby agrees and confirms that this Agreement may not be terminated due solely to the poor performance or underperformance of any of their Subsidiaries or the Business or any investment made by the TERP Group on the recommendation of any member of the Service Provider Group.
+ 
+11.3   Termination by the Service Providers
+ 
+11.3.1 The Service Providers may terminate this Agreement effective upon written notice of termination to the Service Recipients without payment of any termination fee if:
+ 
+11.3.1.1 any Service Recipient defaults in the performance or observance of any material term, condition or agreement contained in this Agreement in a manner that results in material harm to the Service Providers and such default continues for a period of 60 days after written notice thereof specifying such default and requesting that the same be remedied in such 60-day period; provided, however, that if the fact, circumstance or condition that is the subject of such obligation cannot reasonably be remedied within such 60-day period and if, within such period, the Service Recipients provide reasonable evidence to the Service Providers that they have commenced, and thereafter proceed with all due diligence, to remedy the fact, circumstance or condition that is the subject of such obligation, such period shall be extended for a reasonable period satisfactory to the Service Providers, acting reasonably, for the Service Recipients to remedy the same; or
+ 
+11.3.1.2 any Service Recipient makes a general assignment for the benefit of its creditors, institutes proceedings to be adjudicated voluntarily bankrupt, consents to the filing of a petition of bankruptcy against it, is adjudicated by a court of competent jurisdiction as being bankrupt or insolvent, seeks reorganization under any bankruptcy law or consents to the filing of a petition seeking such reorganization or has a decree entered against it by a court of competent jurisdiction appointing a receiver liquidator, trustee or assignee in bankruptcy or in insolvency;
+ 
+provided, that no term set out in this Section 11.3 shall function to prevent the termination of any Entity-Level Service Agreement according to the terms set out therein.
+ 
+11.4   Survival Upon Termination
+ 
+If this Agreement is terminated pursuant to this Article 11, such termination will be without any further liability or obligation of any party hereto, except as provided in Sections 6.2, 6.5, 7.4, 10.1, 10.2, 11.5, 11.6 and 13.2.
+ 
+11.5   Action Upon Termination
+ 
+11.5.1 From and after the effective date of the termination of this Agreement, the Service Providers shall not be entitled to receive the Base Management Fee for further Services under this Agreement, but will be paid all compensation accruing to and including the date of termination (including such day).
+ 
+11.5.2 Upon any termination of this Agreement, the Service Providers shall forthwith:
+ 
+11.5.2.1 after deducting any accrued compensation and reimbursements for any Expenses to which it is then entitled, pay over to the Service Recipients all money collected and held for the account of the Service Recipients pursuant to this Agreement;
+ 
+11.5.2.2 deliver to the Service Recipients’ Governing Bodies a full accounting, including a statement showing all payments collected by it and a statement of all money held by it, covering the period following the date of the last accounting furnished to the Governing Bodies with respect to the Service Recipients; and
+ 
+11.5.2.3 deliver to the Service Recipients’ Governing Bodies all property and documents of the Service Recipients then in the custody of the Service Provider Group.
+ 
+11.6   Release of Money or other Property Upon Written Request
+ 
+The Service Providers hereby agree that any money or other property of the Service Recipients or their Subsidiaries held by the Service Provider Group under this Agreement shall be held by the relevant member of the Service Provider Group as custodian for such Person, and the relevant member of the Service Provider Group’s records shall be appropriately marked clearly to reflect the ownership of such money or other property by such Person. Upon the receipt by the relevant member of the Service Provider Group of a written request signed by a duly authorized representative of a Service Recipient requesting the relevant member of the Service Provider Group to release to the Service Recipient any money or other property then held by the relevant member of the Service Provider Group for the account of such Service Recipient under this Agreement, the relevant member of the Service Provider Group shall release such money or other property to the Service Recipient within a reasonable period of time, but in no event later than 60 days following such request. The relevant member of the Service Provider Group shall not be liable to any Service Recipient, a Service Recipient’s Governing Body or any other Person for any acts performed or omissions to act by a Service Recipient in connection with the money or other property released to the Service Recipient in accordance with the second sentence of this Section 11.6. Each Service Recipient shall indemnify and hold harmless the relevant member of the Service Provider Group, any of its Affiliates and any directors, officers, agents, subcontractors, delegatees, members, partners, shareholders and employees and other representatives of each of the foregoing from and against any and all Liabilities which arise in connection with the relevant member of the Service Provider Group’s release of such money or other property to the Service Recipient in accordance with the terms of this Section 11.6. Indemnification pursuant to this provision shall be in addition to any right of such Persons to indemnification under Section 10.1 hereof. For the avoidance of doubt, the provisions of this Section 11.6 shall survive termination of this Agreement. The Service Recipients hereby constitute the Service Providers as trustees for each Person entitled to indemnification pursuant to this Section 11.6 of the covenants of the Service Recipients under this Section 11.6 with respect to such Persons and the Service Providers hereby accept such trust and agree to hold and enforce such covenants on behalf of such Persons.
+ 
+ARTICLE 12
+ARBITRATION
+ 
+12.1   Dispute
+ 
+Any dispute or disagreement of any kind or nature between the parties arising out of this Agreement (a “Dispute”) shall be resolved in accordance with this Article 12, to the extent permitted by applicable Laws.
+ 
+12.2   Arbitration
+ 
+12.2.1 Any Dispute shall be submitted to arbitration (the “Arbitration”) by three Arbitrators pursuant to the procedure set forth in this Section 12.2 and pursuant to the then current Commercial Arbitration Rules (the “Rules”) of the American Arbitration Association (“AAA”). If the provisions of this Section 12.2 are inconsistent with the provisions of the Rules and to the extent of such inconsistency, the provisions of this Section 12.2 shall prevail in any Arbitration.
+ 
+12.2.2 Any party may make a demand for Arbitration by sending a notice in writing to any other party, setting forth the nature of the Dispute, the amount involved and the name of one arbitrator appointed by such party. The demand for Arbitration shall be made no later than thirty (30) days after the event giving rise to the Dispute.
+ 
+12.2.3 Within thirty (30) days after any demand for Arbitration under Section 12.2.2, the other party shall send a responding statement, which shall contain the name of one arbitrator appointed by the responding party.
+ 
+12.2.4 Within thirty (30) days of the appointment of the second arbitrator, the two party-appointed arbitrators shall appoint the third arbitrator, who shall act as the chair of the arbitration panel. The third arbitrator shall be appointed from the AAA National Roster (collectively with the two party-appointed arbitrators, the “Arbitrators”).
+ 
+12.2.5 In connection with any Arbitration, the Arbitrators shall allow reasonable requests for (i) the production of documents relevant to the dispute and (ii) taking of depositions.
+ 
+12.2.6 The seat of the arbitration will be New York and the language of the arbitration will be English. The Arbitration hearings shall be held in a location in New York specified in the demand for Arbitration and shall commence no later than thirty (30) days after the determination of the Arbitrator under Section 12.2.4.
+ 
+12.2.7 Any monetary award may include interest but may not include punitive or exemplary damages.
+ 
+12.2.8 The decision of the Arbitrators shall be made not later than sixty (60) days after its appointment. The decision of the Arbitrators shall be final without appeal and binding on the parties, and may be enforced in any court of competent jurisdiction.
+ 
+12.2.9 Each party involved in the Dispute shall bear the costs and expenses of all lawyers, consultants, advisors, witnesses and employees retained by it in any Arbitration. The expenses of the Arbitrators shall be paid equally by the parties unless the Arbitrators otherwise provides in its award.
+ 
+12.2.10 Notwithstanding any conflicting choice of law provisions in this Agreement or any applicable principles of conflicts of law, the arbitration provisions set forth herein, and any Arbitration conducted hereunder, shall be governed exclusively by the Federal Arbitration Act, 9 U.S.C. § 1, et seq.
+ 
+12.2.11 Judgment on the award rendered by the Arbitrators may be entered in any court having jurisdiction thereof.
+ 
+12.3   Continued Performance
+ 
+During the conduct of Dispute resolution procedures pursuant to this Article 12, the parties shall continue to perform their respective obligations under this Agreement and no party shall exercise any other remedies to resolve a Dispute.
+ 
+12.4   Urgent Relief
+ 
+Nothing in this Article 12 will prejudice the right of a party to seek urgent injunctive or declaratory relief from a court.
+ 
+ARTICLE 13
+GENERAL PROVISIONS
+ 
+13.1   Assignment
+ 
+13.1.1 This Agreement shall not be assigned by the Service Providers without the prior written consent of TERP except (i) pursuant to Section 2.3, or (ii) in the case of assignment by any of the Service Providers to an Affiliate, in which case the Affiliate shall be bound under this Agreement and by the terms of the assignment in the same manner as such Service Provider is bound under this Agreement. In addition, provided that the Service Providers provide prior written notice to the Service Recipients for informational purposes only, nothing contained in this Agreement shall preclude any pledge, hypothecation or other collateral assignment of any of the Service Providers’ rights under this Agreement, including any amounts payable to the Service Providers under this Agreement, to a bona fide lender as security (provided that the provisions set forth in the first sentence hereof shall apply upon any foreclosure of such pledge, hypothecation or other transfer or collateral assignment).
+ 
+13.1.2 Notwithstanding Section 13.2.1, this Agreement will not be assigned (within the meaning of the Advisers Act) by Canadian Service Provider II without the prior written consent of TERP.
+ 
+13.1.3 This Agreement shall not be assigned by any of the Service Recipients without the prior written consent of the Service Providers, except in the case of assignment by any such Service Recipient to a Person that is its successor by merger, consolidation or purchase of assets, in which case the successor shall be bound under this Agreement and by the terms of the assignment in the same manner as such Service Recipient is bound under this Agreement.
+ 
+13.1.4 Any purported assignment of this Agreement in violation of this Article 13 shall be null and void.
+ 
+13.2   Failure to Pay When Due
+ 
+Any amount payable by any Service Recipient to any member of the Service Provider Group hereunder which is not remitted when so due will remain due (whether on demand or otherwise) and interest will accrue on such overdue amounts (both before and after judgment) at a rate per annum equal to the Interest Rate.
+ 
+13.3   Enurement
+ 
+This Agreement will enure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.
+ 
+13.4   Third Party Beneficiaries
+ 
+Nothing in this Agreement, express or implied, is intended to or shall confer upon any Person other than the parties hereto any rights, benefits or remedies of any nature whatsoever under or by reason of this Agreement, except the Indemnified Parties as provided in Section 10.1 and any Service Recipient not party hereto.
+ 
+13.5   Notices
+ 
+Any notice or other communication required or permitted to be given hereunder will be in writing and will be given by prepaid first class mail, by e-mail or other means of electronic communication, provided that the e-mail is promptly confirmed by telephone confirmation thereof, or by hand delivery as hereinafter provided. Any such notice or other communication, if mailed by prepaid first class mail at any time other than during a general discontinuance of postal service due to strike, lockout or otherwise, will be deemed to have been received on the fourth Business Day after the post marked date thereof, or if sent by e-mail or other means of electronic communication, will be deemed to have been received on the Business Day following the sending, or if delivered by hand will be deemed to have been received at the time it is delivered to the applicable address noted below either to the individual designated below or to an individual at such address having apparent authority to accept deliveries on behalf of the addressee. Notice of change of address will also be governed by this section. In the event of a general discontinuance of postal service due to strike, lock out or otherwise, notices or other communications will be delivered by hand or sent by e-mail or other means of electronic communication and will be deemed to have been received in accordance with this section. Notices and other communications will be addressed as follows:
+ 
+13.5.1 if to Brookfield:
+ 
+Brookfield Asset Management Inc.
+Suite 300, Brookfield Place
+181 Bay Street, Box 762
+Toronto, Ontario
+M5J 2T3
+Canada
+   
+Attention: Jennifer Mazin
+E-mail: jennifer.mazin@brookfieldrenewable.com
+ 
+13.5.2 if to the Canadian Service Provider:
+ 
+BRP Energy Group L.P.
+Suite 300, Brookfield Place
+181 Bay Street, Box 762
+Toronto, Ontario
+M5J 2T3
+   
+Attention: Jennifer Mazin
+E-mail: jennifer.mazin@brookfieldrenewable.com
+ 
+13.5.3 if to the Canadian Service Provider II:
+ 
+Brookfield Asset Management Private Institutional Capital Adviser (Canada), L.P.
+Suite 300, Brookfield Place
+181 Bay Street, Box 762
+Toronto, Ontario
+M5J 2T3
+   
+Attention: Jennifer Mazin
+E-mail: jennifer.mazin@brookfieldrenewable.com
+ 
+13.5.4 if to the UK Service Provider:
+ 
+Brookfield Global Renewable Energy Adviser Limited
+23 Hanover Square
+London, England
+W1S 1JB
+   
+Attention: Jennifer Mazin
+E-mail: jennifer.mazin@brookfieldrenewable.com
+ 
+13.5.5 if to the Service Recipients:
+ 
+TerraForm Power, Inc.
+12500 Baltimore Avenue
+Beltsville, MD 20705
+United States of America
+   
+Attention: General Counsel
+E-mail: andrea.rocheleau@brookfieldrenewable.com
+ 
+or to such other addresses or as a party may from time to time notify the other in accordance with this Section 13.5.
+ 
+13.6   Further Assurances
+ 
+Each of the parties hereto will promptly do, make, execute or deliver, or cause to be done, made, executed or delivered, all such further acts, documents and things as the other party hereto may reasonably require from time to time for the purpose of giving effect to this Agreement and will use reasonable efforts and take all such steps as may be reasonably within its power to implement to their full extent the provisions of this Agreement.
+ 
+13.7   Counterparts
+ 
+This Agreement may be executed in any number of counterparts and by the parties hereto on separate counterparts, each of which shall be deemed an original, but all the counterparts shall together constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Agreement by facsimile or in electronic format (i.e. “pdf” or “tif”) shall be effective as delivery of a manually executed counterpart of this Agreement.

@@ -1,0 +1,157 @@
+MASTER SERVICES AGREEMENT
+
+THIS MASTER SERVICES AGREEMENT (the “Agreement”) is entered into as of January 17, 2019, (the “Effective Date”) by and between VENTYX BIOSCIENCES, INC., a corporation organized under the laws of Delaware, having a principal place of business at 662 Encinitas Blvd, Suite 250, Encinitas, CA 92024, USA (“Ventyx”), and BAYSIDE PHARMA, LLC, a corporation organized under the laws of California, having a principal place of business at 2600 Hilltop Drive, B-C219, Richmond, CA 94806, USA (“BaySide”).
+
+RECITALS
+
+WHEREAS, Ventyx is engaged in the development of pharmaceutical products;
+
+WHEREAS, BaySide has personnel, expertise and facilities suitable for conducting certain research and development services on behalf of Ventyx; and
+
+WHEREAS, Ventyx and BaySide desire to enter into this Agreement to govern the relationship between the parties and to define the conditions under which BaySide will perform services in support of the research and development of one or more of Ventyx’s drug candidates.
+
+AGREEMENT
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants and premises contained in this Agreement, the receipt and sufficiency of which are hereby expressly acknowledged, the parties hereto agree as follows:
+
+ 
+
+1.	DEFINITIONS
+
+1.1 “Ventyx Product” means a particular Ventyx drug candidate for which BaySide will conduct a Project, as identified in the applicable Work Order.
+
+1.2 “Project” has the meaning provided in Section 2.2.
+
+1.3 “Results” has the meaning provided in Section 2.5.
+
+1.4 “Services” means the particular tasks to be performed by BaySide for a given Project pursuant to this Agreement, as more fully set out in the applicable Work Order.
+
+1.5 “Work Order” means the document for a given Project under which BaySide agrees to perform Services for such Project pursuant to this Agreement. Each Work Order will be agreed upon by the parties on a Project-by-Project basis as set forth in Section 2.2 and attached to and made a part of this Agreement.
+
+1.6 “Work Product” will mean any and all results (including Results) and products (interim and/or final) of the Services performed by BaySide, whether tangible or intangible, including, without limitation, each and every invention, discovery, design, drawing, protocol, process, technique, formula, trade secret, device, compound, substance, biological material, pharmaceutical, method, software program (including, without limitation, object code, source code, flow charts, algorithms and related documentation), listing, routine, manual and specification, whether or not patentable or copyrightable, that are made, developed, perfected, designed, conceived or first reduced to practice by BaySide, either solely or jointly with others, in the course of or as a result of performing the Services.
+
+ 
+
+
+
+2.	SCOPE OF WORK
+
+2.1 Scope of Agreement. As a master form of contract, this Agreement allows the parties to contract for multiple Projects through the issuance of multiple Work Orders (as discussed in Section 2.2 below), without having to re-negotiate the basic terms and conditions contained herein.
+
+2.2 Performance of Services. The specific Services to be performed by BaySide and the protocols to be provided by Ventyx for each project under this Agreement (each, a “Project”) will be specified separately in writing on terms and in a form acceptable to the parties (each such writing, a “Work Order”). Each Work Order will be signed by both parties and will set forth, upon terms mutually agreeable to the parties, the specific Services to be performed by BaySide, the time line and schedule for the performance of such Services and the compensation to be paid by Ventyx to BaySide for the provision of such Services, as well as any other relevant terms and conditions. If a Project includes the development of specific Work Product, the specifications of such Work Product will be set forth in the relevant Work Order. Each Work Order will be subject to the terms and conditions of this Agreement, in addition to the specific details set forth in such Work Order. To the extent any terms or provisions of a Work Order conflict with the terms or provisions of this Agreement, the terms and provisions of this Agreement will control. The parties will attach a copy of each Work Order to Exhibit A of this Agreement and each such Work Order will be incorporated herein by reference. Any changes to such Work Order will be in writing, executed by each party, attached to the original Work Order and incorporated therein and attached hereto.
+
+2.3 Compliance with Work Orders and Law. BaySide agrees to perform the Services set forth in each Work Order in a competent and professional manner and in strict accordance with the terms and conditions contained in this Agreement and such Work Order. BaySide will perform its obligations hereunder in conformance with all applicable federal, state and local statutes, rules and regulations and, if applicable, accepted standards of good laboratory practice (GLP), good clinical practice (GCP) and/or current good manufacturing practice (cGMP).
+
+2.4 Ventyx’s Approval of Subcontractors. BaySide will not subcontract any of the Services under any Work Order without first obtaining Ventyx’s prior written consent. BaySide will at all times be responsible for the compliance of its permitted subcontractors with the terms and conditions of this Agreement and the applicable Work Order.
+
+2.5 Results. All data generated by BaySide or its employees, agents, consultants, Ventyx-approved subcontractors or other representatives in the course of conducting a Project, whether in written, graphic or electronic form or contained in any computer database in any computer readable form (collectively, the “Results”), will be owned solely by Ventyx. BaySide will record, or cause to be recorded, all Results in a timely, accurate and complete manner. All Results collected will be delivered to Ventyx by BaySide in a timely manner throughout the performance of the Project, and in no event later than ten (10) working days after the date of completion or termination of such Project or later than ten (10) working days after the date on which Ventyx otherwise requests delivery of the Results. Ventyx will have the right to review, publish, disclose and use any Results as Ventyx, in its sole discretion, deems appropriate, including, without limitation, in submission to any U.S. or foreign regulatory authority. Any copyrightable work created in connection with the performance of a Project and contained in or relating to the Results will be considered a work made for hire, whether published or unpublished, and all rights therein will be the property of Ventyx as author and owner of copyright in such work. For purposes of clarification, this section will apply to each Project individually.
+
+2.6 Materials. Ventyx may provide to BaySide certain materials necessary for performance of a Project as specified in the applicable Work Order, which may include, without limitation, Ventyx Product (collectively, “Materials”), in amounts sufficient for the conduct of the Project. All such Materials will remain the sole property of Ventyx, will be used only in furtherance of the Services in accordance with this Agreement and each Work Order, will not be used or delivered to or for the benefit of any third party without the prior written consent of Ventyx, and will be used in compliance with all applicable laws, rules and regulations. The Materials supplied by Ventyx under this Agreement must be used with prudence and appropriate caution in any experimental work because not all of their characteristics may be known. Except as expressly set forth herein, THE MATERIALS ARE PROVIDED “AS IS” AND WITHOUT ANY REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR OF FITNESS FOR ANY PARTICULAR PURPOSE OR ANY WARRANTY THAT THE USE OF THE MATERIALS WILL NOT INFRINGE OR VIOLATE ANY PATENT OR OTHER PROPRIETARY RIGHTS OF ANY THIRD PARTY.
+
+ 
+
+3.	PAYMENT
+
+As full consideration for Services, Ventyx will pay BaySide the amounts set forth in the applicable Work Order in accordance with the payment schedule set forth in such Work Order. BaySide will provide to Ventyx for each Work Order one or more invoices (to be delivered at intervals agreed upon in such Work Order), summarizing the Services performed during such specific period of time under such Work Order and the fees and costs therefor. BaySide will invoice Ventyx for all amounts due in United States Dollars. Ventyx will pay all undisputed amounts within thirty (30) days after receipt of a proper invoice and reasonable supporting documentation for such invoice. BaySide will not exceed the budget set forth in any Work Order without the prior written consent of Ventyx.
+
+ 
+
+4.	REGULATORY
+
+4.1 Regulatory Inspections. If any governmental or regulatory authority conducts, or gives notice to BaySide of its intent to conduct, an inspection at BaySide’s facilities where any Project or Services are being performed or to take any other regulatory action with respect to any Project or Services, BaySide will use best efforts to notify Ventyx prior to complying with such a demand or request.
+
+4.2 Visits by Ventyx. Representatives of Ventyx may visit and/or meet with BaySide or Ventyx-approved subcontractors at reasonable times and with reasonable frequency during normal business hours to observe the progress of each Project and review Project records. BaySide will assist Ventyx in scheduling such visits.
+
+4.3 Record-Keeping. BaySide will maintain records of documents, information, data and materials used or generated in performance of the Services (including, without limitation, Work Product and Intellectual Property) in a professional manner so as to permit Ventyx to review such records in accordance with this Section 4.3 without disclosing to Ventyx any third party confidential or proprietary information. Designated representatives of Ventyx will, upon reasonable notice to BaySide, have access to and will be permitted to review all such records. BaySide will provide to Ventyx upon request a copy of all such records. Following expiration or termination of this Agreement, BaySide will (a) continue to make such records available to Ventyx for a period of five (5) years from the date of such termination, or (b) upon Ventyx’s prior written request, transfer ownership of such records to Ventyx. After expiration of such retention period, BaySide will either transfer such records to Ventyx or destroy such records as determined by Ventyx in its sole discretion. This Section 4.3 is subject to any provision of the applicable Work Order providing for BaySide to deliver any such records to Ventyx.
+
+ 
+
+5.	OWNERSHIP OF INTELLECTUAL PROPERTY
+
+BaySide understands and agrees that the underlying rights to the intellectual property and materials that are the subject of each Work Order, including, without limitation, all intellectual property rights in Ventyx Products, are owned solely by Ventyx. Neither BaySide nor any Ventyx- approved subcontractor will acquire any rights of any kind whatsoever with respect to Ventyx Products as a result of conducting a particular Project. All rights to Work Product generated in the performance of work conducted under this Agreement by BaySide’s employees, agents, consultants, subcontractors or other representatives, either solely or jointly with employees, agents, consultants or other representatives of Ventyx, including all patent and other intellectual property rights therein (the “Intellectual Property”), will be owned solely by Ventyx. BaySide and all employees, agents, consultants and subcontractors of BaySide will sign and deliver to Ventyx all writings and do all such things as may be necessary or appropriate to vest in Ventyx all right, title and interest in and to such Work Product and Intellectual Property. BaySide will promptly disclose to Ventyx any such Work Product arising under this Agreement. Ventyx may, in its sole discretion, file and prosecute in its own name and at its own expense, patent applications on any patentable inventions within the Work Product. Upon the request of Ventyx, and at the sole expense of Ventyx, BaySide will assist Ventyx in the preparation, filing and prosecution of such patent applications and will execute and deliver any and all instruments necessary to effectuate the ownership of such patent applications and to enable Ventyx to file and prosecute such patent applications in any country.
+
+ 
+
+6.	CONFIDENTIALITY
+
+6.1 Confidentiality Obligation. During the term of this Agreement and for a period of five (5) years thereafter, BaySide will maintain all Confidential Information (as defined below) as confidential and will not disclose any Confidential Information or use any Confidential Information for any purpose, except (a) as expressly authorized by this Agreement, (b) as permitted by Section 6.3, or (c) to its employees, agents, consultants, Ventyx-approved subcontractors and other representatives who require access to such information to accomplish the purposes of this Agreement so long as such persons are under obligations regarding the confidentiality of the Confidential Information and the ownership of Work Product that are consistent with and no less protective to Ventyx than the terms of this Agreement. BaySide may use the Confidential Information only to the extent required to accomplish the purposes of this Agreement. BaySide will use at least the same standard of care as it uses to protect its own confidential information to ensure that its employees, agents, consultants, Ventyx-approved subcontractors and other representatives do not disclose or make any unauthorized use of the Confidential Information. BaySide will promptly notify Ventyx upon discovery of any unauthorized use or disclosure of the Confidential Information.
+
+6.2 Definition. For purpose of this Agreement, “Confidential Information” means all information provided by or on behalf of Ventyx to BaySide in connection with any Project and all data, results, inventions and information developed in or as a result of the activities undertaken by BaySide in connection with each such Project (including, without limitation, the Work Product, Results and Intellectual Property), whether in oral, written, graphic or electronic form. Notwithstanding the foregoing, Confidential Information will not include any information which BaySide can demonstrate by competent evidence: (a) is now, or hereafter becomes, through no act or failure to act on the part of BaySide or any of its employees, agents, consultants or subcontractors, generally known or available; (b) is known by BaySide at the time of receiving such information; or (c) is hereafter furnished to BaySide by a third party, as a matter of right and without restriction on disclosure.
+
+6.3 Authorized Disclosure. Notwithstanding Section 6.1, BaySide may disclose Confidential Information, without violating its obligations under this Agreement, to the extent the disclosure is required by a valid order of a court or other governmental body having jurisdiction, provided that BaySide gives reasonable prior written notice to Ventyx of such required disclosure and, at Ventyx’s request and expense, cooperates with Ventyx’s efforts to obtain a protective order preventing or limiting the disclosure and/or requiring that the Confidential Information so disclosed be used only for the purposes for which the law or regulation requires, or for which the order was issued.
+
+6.4 Third Party Confidential Information. BaySide will not disclose to Ventyx any confidential or proprietary information that belongs to any third party during its performance under this Agreement.
+
+ 
+
+7.	REPRESENTATIONS AND WARRANTIES
+
+7.1 Mutual Representations and Warranties. Each party represents and warrants that (a) it has full power and authority to enter into this Agreement, (b) this Agreement has been duly authorized, and (c) this Agreement is binding upon it.
+
+7.2 BaySide Representations and Warranties. BaySide represents and warrants that:
+
+(a) the terms of this Agreement are not inconsistent with its other contractual arrangements;
+
+(b) BaySide is not constrained by any existing agreement in providing complete disclosures to Ventyx concerning obligations to be performed under this Agreement; (c) BaySide will render the Services in accordance with high professional standards and in compliance with the terms of this Agreement, the terms of each Work Order, and all applicable laws and regulations; and (d) the personnel assigned to perform Services rendered under this Agreement will be qualified and professionally capable of performing the Services.
+
+7.3 No Debarment. BaySide hereby certifies that it has not been debarred under the provisions of the Generic Drug Enforcement Act of 1992, 21 U.S.C. §306. In the event that BaySide (a) becomes debarred, or (b) receives notice of action or threat of action with respect to its debarment, during the term of this Agreement, BaySide agrees to notify Ventyx immediately. In the event that BaySide becomes debarred as set forth in clause (a) above or in the event that BaySide receives notice of action or threat of action as set forth in clause (b) above, Ventyx will have the right to terminate this Agreement immediately.
+
+7.4 No Services of Debarred Persons. BaySide hereby certifies that it has not and will not use in any capacity the services of any individual, corporation, partnership, institution or association that has been debarred under 21 U.S.C. §30. In the event BaySide becomes aware of the debarment or threatened debarment of any individual, corporation, partnership, institution or association providing services to BaySide which directly or indirectly relate to BaySide’s activities under this Agreement, BaySide will notify Ventyx immediately. Ventyx will have the right to terminate this Agreement immediately upon receipt of such notice.
+
+7.5 Disclaimer of Warranties. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER PARTY MAKES ANY REPRESENTATION OR WARRANTY TO THE OTHER PARTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+7.6 Limitation of Liability. EXCEPT FOR BREACH OF ARTICLE 6, IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, LOST SAVINGS, OR ANY OTHER INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE DAMAGES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE SERVICES PROVIDED HEREUNDER; PROVIDED, HOWEVER, THAT THIS SECTION 7.6 WILL NOT BE CONSTRUED TO LIMIT EITHER PARTY’S INDEMNIFICATION OBLIGATIONS UNDER ARTICLE 9.
+
+ 
+
+8.	TERM; TERMINATION
+
+8.1 Term. The term of this Agreement will commence on the Effective Date and will continue until termination of this Agreement as provided in this Article 8.
+
+8.2 Termination of Agreement At Will. Either party may terminate this Agreement at any time upon 30 days’ prior written notice to the other party. Notwithstanding the foregoing, if Services under any Work Order are in progress on the date on which a party gives notice under this Section 8.2, then, at Ventyx’s option, termination under this Section 8.2 will not be effective until the later of (a) 30 days after the date on which the other party receives such notice of termination, or (b) the date on which the Services to be provided under such Work Order have been completed.
+
+8.3 Termination of Agreement for Material Breach. A party may terminate this Agreement or any Work Order for material breach of this Agreement by the other party upon 30 days’ written notice specifying the nature of the breach, if such breach has not been cured within such 30-day period. If such notice of breach is for breach of any Work Order, such notice will note the specific Work Order under which such breach is claimed.
+
+8.4 Payment upon Early Termination. In the event of termination prior to completion of the Services specified in any Work Order, BaySide will be paid for all work completed through the date of termination in accordance with this Agreement and such Work Order, including reasonable and documented out-of-pocket expenses and any non-cancellable commitments incurred by BaySide in accordance with this Agreement and such Work Order. BaySide will refund to Ventyx any prepaid amounts not earned by BaySide prior to the date of such termination.
+
+8.5 Survival upon Termination. Expiration or termination of this Agreement will not relieve the parties of any obligation accruing prior to such expiration or termination. Sections 2.5, 2.6, 4.1, 4.3, 7.5, 7.6, 8.4 and 8.5 and Articles 1, 5, 6, 9 and 10 will survive expiration or termination of this Agreement.
+
+ 
+
+9.	INDEMNIFICATION; LIABILITY; INSURANCE
+
+9.1 Indemnification by BaySide. BaySide agrees to defend, indemnify and hold harmless Ventyx and its officers, directors, employees, consultants and agents from and against any and all losses, damages, liabilities, expenses and costs, including reasonable legal expense and attorneys’ fees (“Losses”), to which they may become subject as a result of any claim, demand, action or other proceeding by any Third Party to the extent such Losses arise from or relate to (a) performance of the Services, (b) BaySide’s material breach of this Agreement, (c) a breach of any of BaySide’s representations and warranties or covenants under Section 7, or (d) BaySide’s gross negligence or willful misconduct in performing its obligations under this Agreement, except to the extent such Losses arise from Ventyx’s gross negligence, willful misconduct or material breach of this Agreement.
+
+9.2 Indemnification by Ventyx. Ventyx agrees to defend, indemnify and hold harmless BaySide and its officers, directors, employees, consultants and agents from and against any and all Losses, to which they may become subject as a result of any claim, demand, action or other proceeding by any Third Party to the extent such Losses arise from or relate to (a) Ventyx’s use of the Work Product hereunder, (b) Ventyx’s material breach of this Agreement, or (c) Ventyx’s gross negligence or willful misconduct in performing its obligations under this Agreement, except to the extent such Losses arise from BaySide’s gross negligence, willful misconduct or material breach of this Agreement.
+
+9.3 General Conditions of Indemnification. In the event either party seeks indemnification under Section 9, it (a) will provide written notice to the other party of any claim, demand or action arising out of the indemnified activities within thirty (30) days after it has knowledge of such claim, demand or action, (b) will permit the other party to assume full responsibility and authority to investigate, prepare for and defend against any such claim or demand (including the right to settle the claim solely for monetary consideration), (c) will assist the other party, at the other party’s reasonable expense, in the investigation of, preparation for and defense of any such claim or demand, and (d) will not compromise or settle such claim or demand without the other party’s written consent.
+
+9.4 Liability of BaySide; Insurance. BaySide assumes any and all risks of personal injury and property damage attributable to the negligent acts or omissions of BaySide and the officers, employees and agents thereof. BaySide warrants and represents that it is self-funded for liability insurance, both personal and property, with such protection being applicable to BaySide’s officers, employees, servants and agents while acting within the scope of their employment by BaySide. BaySide will secure and maintain in full force and effect throughout the performance of each Project, insurance coverage in amounts appropriate to the conduct of BaySide’s business. BaySide also agrees that it will maintain adequate insurance to cover its obligations hereunder, as well as workers’ compensation insurance in the amount required by the laws of the jurisdiction in which BaySide’s employees are located.
+
+ 
+
+10.	GENERAL PROVISIONS
+
+10.1 Governing Law; Governing Language. This Agreement will be governed by the laws of the State of California, USA, without regard to the conflicts of law provisions of any jurisdiction. The United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement. The official text of this Agreement and any exhibits attached hereto, or any notices given or accounts, reports or statements required hereby, shall be in English. In the event of any dispute concerning the construction or interpretation of this Agreement, reference shall be made only to this Agreement as written in English and not to any other translation into any other language.
+
+10.2 No Implied Licenses. Neither party grants any right or license to the other party under this Agreement, except as specifically set forth herein.
+
+10.3 Independent Contractor Relationship. BaySide’s relationship with Ventyx will be that of an independent contractor and nothing in this Agreement will be construed to create a partnership, joint venture or employer-employee relationship. BaySide is not an agent of Ventyx and is not authorized to make any representation, contract or commitment on behalf of Ventyx. BaySide will be solely responsible for all tax returns and payments required to be filed with or made to any federal, state or local tax authority with respect to BaySide’s performance of Services and receipt of fees under this Agreement.
+
+10.4 Use of Names. Neither party will use the other party’s name or the names of the other party’s employees in any advertising or sales promotional material or in any publication without prior written permission of the other party.
+
+10.5 Entire Agreement; Amendment. This Agreement, together with all Exhibits attached hereto, constitutes the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes all prior understandings and agreements relating to its subject matter. This Agreement may not be changed, modified, amended or supplemented, except by a written instrument signed by both parties.
+
+10.6 Severability. If any provision of this Agreement should be held invalid or unenforceable, the remaining provisions will be unaffected and will remain in full force and effect, to the extent consistent with the intent of the parties as evidenced by this Agreement as a whole.
+
+10.7 Assignment; Delegation. This Agreement will inure to the benefit of and be binding upon the successors and assigns of the parties. Neither party may assign any of its rights or obligations under this Agreement to any third party without the prior written consent of the other party; provided, however, that Ventyx may assign its interest in this Agreement to an affiliate or in connection with a merger or sale of substantially all of its business or that portion of its business pertaining to the subject matter of this Agreement, whether by merger, sale of stock, sale of assets or otherwise. BaySide may not subcontract or otherwise delegate its obligations under this Agreement without Ventyx’s prior written consent.
+
+10.8 Headings. Section headings are for convenience of reference only and will not be considered in the interpretation of this Agreement.
+
+10.9 Force Majeure. Each party will be excused from liability for the failure or delay in performance of any obligation under this Agreement by reason of any event beyond such party’s reasonable control, including, but not limited to, Acts of God, fire, flood, explosion, earthquake, or other natural forces, war, civil unrest, acts of terrorism, accident, destruction or other casualty, any lack or failure of transportation facilities, any lack or failure of supply of raw materials, any strike or labor disturbance, or any other event similar to those enumerated above. Such excuse from liability will be effective only to the extent and duration of the event causing the failure or delay in performance and provided that the party has not caused such event to occur. Notice of a party’s failure or delay in performance due to force majeure will be given to the other party within ten (10) days after its occurrence. All delivery dates under this Agreement that have been affected by force majeure will be tolled for the duration of such force majeure. In no event will any party be required to prevent or settle any labor disturbance or dispute.
+
+10.10 Notices. Any notice required or permitted by this Agreement will be in writing and will be given to the appropriate party at the address specified below or at such other address as the party may specify in writing.
+
+10.11 Waiver. No waiver of a breach of any provision of this Agreement will be valid, unless such waiver is in writing and signed by both parties. The waiver by either party of a breach of any provision of this Agreement by the other party will not be construed as a waiver of any other breach or subsequent breach by such party.
+
+10.12 Counterparts. This Agreement may be executed in two or more counterparts, each of which will be deemed an original, but all of which will together constitute one and the same agreement. Delivery of an executed counterpart of a signature page to this Agreement by email of a scanned pdf copy will be effective as delivery of an original executed counterpart of this Agreement.
