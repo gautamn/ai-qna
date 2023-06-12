@@ -52,12 +52,16 @@ def addDataInWeaviate(corpus, openai_key, weaviate_url):
         for item in corpus:
             text = item
             #print(text)
-            print(text['content'])
+            #print(text['content'])
             str = text['content'].replace("\n", " ")
+            string_unicode = str
+            string_encode = string_unicode.encode("ascii", "ignore") #https://pythonguides.com/remove-unicode-characters-in-python/
+            string_decode = string_encode.decode()
+            print(string_decode)
             print("**********************************************************************************************************")
-            ebd = generate_data_embeddings(str)
+            ebd = generate_data_embeddings(string_decode)
             batch_data = {
-                "content": str,
+                "content": string_decode,
                 "organizationId" : "andor"
             }
             batch.add_data_object(data_object=batch_data, class_name="PDFDocument", vector=ebd)

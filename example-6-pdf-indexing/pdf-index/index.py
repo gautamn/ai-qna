@@ -18,7 +18,7 @@ def main():
         "X-OpenAI-Api-Key": openai.api_key  # Replace with your inference API key
       }
     )
-    data_folder = "../data"
+    data_folder = "../data/nfts/"
     data_objects = []
 
     for path in Path(data_folder).iterdir():
@@ -26,27 +26,27 @@ def main():
             continue
         print(f"Processing {path.name}...")
         elements = partition_pdf(filename=path)
-        for elem in elements[:1]:
-            print(elem)
-        titles = [elem for elem in elements if elem.category == "Title"]
-        for title in titles:
-            print("title=="+title.text)
+        #for elem in elements[:10]:
+        #    print(elem)
+        # titles = [elem for elem in elements if elem.category == "Title"]
+        #for title in titles:
+        #    print("title=="+title.text)
         
         narrative_texts = [elem for elem in elements if elem.category == "NarrativeText"]
 
         for index, elem in enumerate(narrative_texts[:5]):
             print(f"Narrative text == {index + 1}:")
-            print("\n".join(textwrap.wrap(elem.text, width=70)))
-            print("\n" + "-" * 70 + "\n")
+            print("\n".join(textwrap.wrap(elem.text, width=100)))
+            print("\n" + "-" * 100 + "\n")
             
-        abstract_extractor = AbstractExtractor()
-        abstract_extractor.consume_elements(elements)
-        data_object = {"source": path.name, "abstract": abstract_extractor.abstract()}
-        data_objects.append(data_object)
+        #abstract_extractor = AbstractExtractor()
+        #abstract_extractor.consume_elements(elements)
+        #data_object = {"source": path.name, "abstract": abstract_extractor.abstract()}
+        #data_objects.append(data_object)
 
-        with client.batch as batch:
-           for data_object in data_objects:
-               batch.add_data_object(data_object, "Document")
+        #with client.batch as batch:
+        #   for data_object in data_objects:
+        #       batch.add_data_object(data_object, "Document")
 
     #client.data_object.get(class_name="Document")['totalResults']           
 
