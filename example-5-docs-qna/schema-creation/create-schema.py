@@ -24,6 +24,9 @@ schema = {
                     "skip": False,
                     "vectorizeClassName": True,
                     "vectorizePropertyName": False
+                },
+                 "generative-openai": {
+                    "model": "gpt-3.5-turbo"
                 }
            },
            "vectorIndexType": "hnsw",
@@ -32,14 +35,12 @@ schema = {
                {
                    "name": "content",
                    "dataType": ["text"],
-                   "description": "The text content in the pdf file",
-                   "moduleConfig": {
-                    "text2vec-openai": {
-                        "skip": False,
-                        "vectorizePropertyName": False,
-                        "vectorizeClassName": True
-                    }
-                   }
+                   "description": "The text content in the pdf file"
+               },
+               {
+                   "name": "organizationId",
+                   "dataType": ["text"],
+                   "description": "The organization id to which the pdf file belongs to"
                }
            ]
        }
