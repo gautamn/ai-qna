@@ -26,7 +26,8 @@ schema = {
                     "vectorizePropertyName": False
                 },
                  "generative-openai": {
-                    "model": "gpt-3.5-turbo"
+                    "model": "gpt-3.5-turbo",
+                    "temperatureProperty": 0.2
                 }
            },
            "vectorIndexType": "hnsw",
